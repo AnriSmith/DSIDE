@@ -307,13 +307,13 @@
 2013,Pixley ka Seme,DC7,AUDA,Total Non-Current Assets,16545480,Northern Cape,23.3823545,23.3823545
 2013,Pixley ka Seme,DC7,AUDA,Total Current Assets,16046520,Northern Cape,23.3823545,23.3823545
 2013,Pixley ka Seme,DC7,AUDA,Total Assets,32592000,Northern Cape,23.3823545,23.3823545
-2013,Z F Mgcawu,DC8,AUDA,Total Community Wealth / Equity,6630662,Northern Cape,,
-2013,Z F Mgcawu,DC8,AUDA,Total Non-Current Liabilities,21901430,Northern Cape,,
-2013,Z F Mgcawu,DC8,AUDA,Total Current Liabilities,11733069,Northern Cape,,
-2013,Z F Mgcawu,DC8,AUDA,Total Net Assets and Liabilities,40265161,Northern Cape,,
-2013,Z F Mgcawu,DC8,AUDA,Total Non-Current Assets,31879683,Northern Cape,,
-2013,Z F Mgcawu,DC8,AUDA,Total Current Assets,8385478,Northern Cape,,
-2013,Z F Mgcawu,DC8,AUDA,Total Assets,40265161,Northern Cape,,
+2013,Z F Mgcawu,DC8,AUDA,Total Community Wealth / Equity,6630662,Northern Cape,21.246215,21.246215
+2013,Z F Mgcawu,DC8,AUDA,Total Non-Current Liabilities,21901430,Northern Cape,21.246215,21.246215
+2013,Z F Mgcawu,DC8,AUDA,Total Current Liabilities,11733069,Northern Cape,21.246215,21.246215
+2013,Z F Mgcawu,DC8,AUDA,Total Net Assets and Liabilities,40265161,Northern Cape,21.246215,21.246215
+2013,Z F Mgcawu,DC8,AUDA,Total Non-Current Assets,31879683,Northern Cape,21.246215,21.246215
+2013,Z F Mgcawu,DC8,AUDA,Total Current Assets,8385478,Northern Cape,21.246215,21.246215
+2013,Z F Mgcawu,DC8,AUDA,Total Assets,40265161,Northern Cape,21.246215,21.246215
 2013,Frances Baard,DC9,AUDA,Total Community Wealth / Equity,103974924,Northern Cape,24.3341432,24.3341432
 2013,Frances Baard,DC9,AUDA,Total Non-Current Liabilities,33042415,Northern Cape,24.3341432,24.3341432
 2013,Frances Baard,DC9,AUDA,Total Current Liabilities,12802421,Northern Cape,24.3341432,24.3341432
@@ -321,19 +321,19 @@
 2013,Frances Baard,DC9,AUDA,Total Non-Current Assets,58668392,Northern Cape,24.3341432,24.3341432
 2013,Frances Baard,DC9,AUDA,Total Current Assets,91151368,Northern Cape,24.3341432,24.3341432
 2013,Frances Baard,DC9,AUDA,Total Assets,149819760,Northern Cape,24.3341432,24.3341432
-2013,Dr Beyers Naude,EC101,AUDA,Total Community Wealth / Equity,681209568,Eastern Cape,,
+2013,Dr Beyers Naude,EC101,AUDA,Total Community Wealth / Equity,681209568,Eastern Cape,24.371068,24.371068
 2013,Dr Beyers Naude,EC101,AUDA,Total Non-Current Liabilities,23130943,Eastern Cape,24.3341432,24.3341432
-2013,Dr Beyers Naude,EC101,AUDA,Total Current Liabilities,32284898,Eastern Cape,,
+2013,Dr Beyers Naude,EC101,AUDA,Total Current Liabilities,32284898,Eastern Cape,24.371068,24.371068
 2013,Dr Beyers Naude,EC101,AUDA,Total Net Assets and Liabilities,736625409,Eastern Cape,24.3341432,24.3341432
-2013,Dr Beyers Naude,EC101,AUDA,Total Non-Current Assets,669695456,Eastern Cape,,
+2013,Dr Beyers Naude,EC101,AUDA,Total Non-Current Assets,669695456,Eastern Cape,24.371068,24.371068
 2013,Dr Beyers Naude,EC101,AUDA,Total Current Assets,66929953,Eastern Cape,24.3341432,24.3341432
-2013,Dr Beyers Naude,EC101,AUDA,Total Assets,736625409,Eastern Cape,,
+2013,Dr Beyers Naude,EC101,AUDA,Total Assets,736625409,Eastern Cape,24.371068,24.371068
 2013,Blue Crane Route,EC102,AUDA,Total Community Wealth / Equity,680063439,Eastern Cape,24.3341432,24.3341432
-2013,Blue Crane Route,EC102,AUDA,Total Non-Current Liabilities,15102953,Eastern Cape,,
+2013,Blue Crane Route,EC102,AUDA,Total Non-Current Liabilities,15102953,Eastern Cape,24.371068,24.371068
 2013,Blue Crane Route,EC102,AUDA,Total Current Liabilities,53867794,Eastern Cape,24.3341432,24.3341432
-2013,Blue Crane Route,EC102,AUDA,Total Net Assets and Liabilities,749034186,Eastern Cape,,
+2013,Blue Crane Route,EC102,AUDA,Total Net Assets and Liabilities,749034186,Eastern Cape,24.371068,24.371068
 2013,Blue Crane Route,EC102,AUDA,Total Non-Current Assets,703493600,Eastern Cape,24.3341432,24.3341432
-2013,Blue Crane Route,EC102,AUDA,Total Current Assets,45540586,Eastern Cape,,
+2013,Blue Crane Route,EC102,AUDA,Total Current Assets,45540586,Eastern Cape,24.371068,24.371068
 2013,Blue Crane Route,EC102,AUDA,Total Assets,749034186,Eastern Cape,24.3341432,24.3341432
 2013,Ikwezi,EC103,AUDA,Total Community Wealth / Equity,109469655,Eastern Cape,25.4733554,25.4733554
 2013,Ikwezi,EC103,AUDA,Total Non-Current Liabilities,8205592,Eastern Cape,25.4733554,25.4733554
@@ -1476,13 +1476,13 @@
 2013,Khâi-Ma,NC067,AUDA,Total Non-Current Assets,67372048,Northern Cape,20.902977,20.902977
 2013,Khâi-Ma,NC067,AUDA,Total Current Assets,13982812,Northern Cape,20.902977,20.902977
 2013,Khâi-Ma,NC067,AUDA,Total Assets,81354860,Northern Cape,20.902977,20.902977
-2013,Ubuntu,NC071,AUDA,Total Community Wealth / Equity,134696560,Northern Cape,,
-2013,Ubuntu,NC071,AUDA,Total Non-Current Liabilities,8468574,Northern Cape,,
-2013,Ubuntu,NC071,AUDA,Total Current Liabilities,20931324,Northern Cape,,
-2013,Ubuntu,NC071,AUDA,Total Net Assets and Liabilities,164096458,Northern Cape,,
-2013,Ubuntu,NC071,AUDA,Total Non-Current Assets,146514404,Northern Cape,,
-2013,Ubuntu,NC071,AUDA,Total Current Assets,17582054,Northern Cape,,
-2013,Ubuntu,NC071,AUDA,Total Assets,164096458,Northern Cape,,
+2013,Ubuntu,NC071,AUDA,Total Community Wealth / Equity,134696560,Northern Cape,19.237649,19.237649
+2013,Ubuntu,NC071,AUDA,Total Non-Current Liabilities,8468574,Northern Cape,19.237649,19.237649
+2013,Ubuntu,NC071,AUDA,Total Current Liabilities,20931324,Northern Cape,19.237649,19.237649
+2013,Ubuntu,NC071,AUDA,Total Net Assets and Liabilities,164096458,Northern Cape,19.237649,19.237649
+2013,Ubuntu,NC071,AUDA,Total Non-Current Assets,146514404,Northern Cape,19.237649,19.237649
+2013,Ubuntu,NC071,AUDA,Total Current Assets,17582054,Northern Cape,19.237649,19.237649
+2013,Ubuntu,NC071,AUDA,Total Assets,164096458,Northern Cape,19.237649,19.237649
 2013,Umsobomvu,NC072,AUDA,Total Community Wealth / Equity,476402679,Northern Cape,23.1918021,23.1918021
 2013,Umsobomvu,NC072,AUDA,Total Non-Current Liabilities,31252003,Northern Cape,23.1918021,23.1918021
 2013,Umsobomvu,NC072,AUDA,Total Current Liabilities,43985346,Northern Cape,23.1918021,23.1918021
@@ -2253,13 +2253,13 @@
 2014,Z F Mgcawu,DC8,AUDA,Total Non-Current Assets,22241617,Northern Cape,23.3823545,23.3823545
 2014,Z F Mgcawu,DC8,AUDA,Total Current Assets,5887758,Northern Cape,23.3823545,23.3823545
 2014,Z F Mgcawu,DC8,AUDA,Total Assets,28129375,Northern Cape,23.3823545,23.3823545
-2014,Frances Baard,DC9,AUDA,Total Community Wealth / Equity,96932034,Northern Cape,,
-2014,Frances Baard,DC9,AUDA,Total Non-Current Liabilities,33231557,Northern Cape,,
-2014,Frances Baard,DC9,AUDA,Total Current Liabilities,15961134,Northern Cape,,
-2014,Frances Baard,DC9,AUDA,Total Net Assets and Liabilities,146124725,Northern Cape,,
-2014,Frances Baard,DC9,AUDA,Total Non-Current Assets,54276815,Northern Cape,,
-2014,Frances Baard,DC9,AUDA,Total Current Assets,91847910,Northern Cape,,
-2014,Frances Baard,DC9,AUDA,Total Assets,146124725,Northern Cape,,
+2014,Frances Baard,DC9,AUDA,Total Community Wealth / Equity,96932034,Northern Cape,21.246215,21.246215
+2014,Frances Baard,DC9,AUDA,Total Non-Current Liabilities,33231557,Northern Cape,21.246215,21.246215
+2014,Frances Baard,DC9,AUDA,Total Current Liabilities,15961134,Northern Cape,21.246215,21.246215
+2014,Frances Baard,DC9,AUDA,Total Net Assets and Liabilities,146124725,Northern Cape,21.246215,21.246215
+2014,Frances Baard,DC9,AUDA,Total Non-Current Assets,54276815,Northern Cape,21.246215,21.246215
+2014,Frances Baard,DC9,AUDA,Total Current Assets,91847910,Northern Cape,21.246215,21.246215
+2014,Frances Baard,DC9,AUDA,Total Assets,146124725,Northern Cape,21.246215,21.246215
 2014,Dr Beyers Naude,EC101,AUDA,Total Community Wealth / Equity,667811476,Northern Cape,24.3341432,24.3341432
 2014,Dr Beyers Naude,EC101,AUDA,Total Non-Current Liabilities,26835342,Northern Cape,24.3341432,24.3341432
 2014,Dr Beyers Naude,EC101,AUDA,Total Current Liabilities,30314004,Northern Cape,24.3341432,24.3341432
@@ -2267,19 +2267,19 @@
 2014,Dr Beyers Naude,EC101,AUDA,Total Non-Current Assets,661657746,Northern Cape,24.3341432,24.3341432
 2014,Dr Beyers Naude,EC101,AUDA,Total Current Assets,63303076,Northern Cape,24.3341432,24.3341432
 2014,Dr Beyers Naude,EC101,AUDA,Total Assets,724960822,Northern Cape,24.3341432,24.3341432
-2014,Blue Crane Route,EC102,AUDA,Total Community Wealth / Equity,645173362,Eastern Cape,,
+2014,Blue Crane Route,EC102,AUDA,Total Community Wealth / Equity,645173362,Eastern Cape,24.371068,24.371068
 2014,Blue Crane Route,EC102,AUDA,Total Non-Current Liabilities,24839253,Eastern Cape,24.3341432,24.3341432
-2014,Blue Crane Route,EC102,AUDA,Total Current Liabilities,29996481,Eastern Cape,,
+2014,Blue Crane Route,EC102,AUDA,Total Current Liabilities,29996481,Eastern Cape,24.371068,24.371068
 2014,Blue Crane Route,EC102,AUDA,Total Net Assets and Liabilities,700009096,Eastern Cape,24.3341432,24.3341432
-2014,Blue Crane Route,EC102,AUDA,Total Non-Current Assets,655693411,Eastern Cape,,
+2014,Blue Crane Route,EC102,AUDA,Total Non-Current Assets,655693411,Eastern Cape,24.371068,24.371068
 2014,Blue Crane Route,EC102,AUDA,Total Current Assets,44315685,Eastern Cape,24.3341432,24.3341432
-2014,Blue Crane Route,EC102,AUDA,Total Assets,700009096,Eastern Cape,,
+2014,Blue Crane Route,EC102,AUDA,Total Assets,700009096,Eastern Cape,24.371068,24.371068
 2014,Ikwezi,EC103,AUDA,Total Community Wealth / Equity,104886745,Eastern Cape,24.3341432,24.3341432
-2014,Ikwezi,EC103,AUDA,Total Non-Current Liabilities,11772840,Eastern Cape,,
+2014,Ikwezi,EC103,AUDA,Total Non-Current Liabilities,11772840,Eastern Cape,24.371068,24.371068
 2014,Ikwezi,EC103,AUDA,Total Current Liabilities,26621616,Eastern Cape,24.3341432,24.3341432
-2014,Ikwezi,EC103,AUDA,Total Net Assets and Liabilities,143281201,Eastern Cape,,
+2014,Ikwezi,EC103,AUDA,Total Net Assets and Liabilities,143281201,Eastern Cape,24.371068,24.371068
 2014,Ikwezi,EC103,AUDA,Total Non-Current Assets,138932026,Eastern Cape,24.3341432,24.3341432
-2014,Ikwezi,EC103,AUDA,Total Current Assets,4349175,Eastern Cape,,
+2014,Ikwezi,EC103,AUDA,Total Current Assets,4349175,Eastern Cape,24.371068,24.371068
 2014,Ikwezi,EC103,AUDA,Total Assets,143281201,Eastern Cape,24.3341432,24.3341432
 2014,Makana,EC104,AUDA,Total Community Wealth / Equity,994121969,Eastern Cape,25.4733554,25.4733554
 2014,Makana,EC104,AUDA,Total Non-Current Liabilities,91220745,Eastern Cape,25.4733554,25.4733554
@@ -3429,13 +3429,13 @@
 2014,Ubuntu,NC071,AUDA,Total Non-Current Assets,152209464,Northern Cape,20.902977,20.902977
 2014,Ubuntu,NC071,AUDA,Total Current Assets,21674681,Northern Cape,20.902977,20.902977
 2014,Ubuntu,NC071,AUDA,Total Assets,173884145,Northern Cape,20.902977,20.902977
-2014,Umsobomvu,NC072,AUDA,Total Community Wealth / Equity,502010910,Northern Cape,,
-2014,Umsobomvu,NC072,AUDA,Total Non-Current Liabilities,26209031,Northern Cape,,
-2014,Umsobomvu,NC072,AUDA,Total Current Liabilities,33212309,Northern Cape,,
-2014,Umsobomvu,NC072,AUDA,Total Net Assets and Liabilities,561432250,Northern Cape,,
-2014,Umsobomvu,NC072,AUDA,Total Non-Current Assets,504023045,Northern Cape,,
-2014,Umsobomvu,NC072,AUDA,Total Current Assets,57409205,Northern Cape,,
-2014,Umsobomvu,NC072,AUDA,Total Assets,561432250,Northern Cape,,
+2014,Umsobomvu,NC072,AUDA,Total Community Wealth / Equity,502010910,Northern Cape,19.237649,19.237649
+2014,Umsobomvu,NC072,AUDA,Total Non-Current Liabilities,26209031,Northern Cape,19.237649,19.237649
+2014,Umsobomvu,NC072,AUDA,Total Current Liabilities,33212309,Northern Cape,19.237649,19.237649
+2014,Umsobomvu,NC072,AUDA,Total Net Assets and Liabilities,561432250,Northern Cape,19.237649,19.237649
+2014,Umsobomvu,NC072,AUDA,Total Non-Current Assets,504023045,Northern Cape,19.237649,19.237649
+2014,Umsobomvu,NC072,AUDA,Total Current Assets,57409205,Northern Cape,19.237649,19.237649
+2014,Umsobomvu,NC072,AUDA,Total Assets,561432250,Northern Cape,19.237649,19.237649
 2014,Emthanjeni,NC073,AUDA,Total Community Wealth / Equity,958633390,Northern Cape,23.1918021,23.1918021
 2014,Emthanjeni,NC073,AUDA,Total Non-Current Liabilities,52911005,Northern Cape,23.1918021,23.1918021
 2014,Emthanjeni,NC073,AUDA,Total Current Liabilities,42302278,Northern Cape,23.1918021,23.1918021
@@ -4199,13 +4199,13 @@
 2015,Frances Baard,DC9,AUDA,Total Non-Current Assets,53259149,Northern Cape,23.3823545,23.3823545
 2015,Frances Baard,DC9,AUDA,Total Current Assets,97163548,Northern Cape,23.3823545,23.3823545
 2015,Frances Baard,DC9,AUDA,Total Assets,150422697,Northern Cape,23.3823545,23.3823545
-2015,Dr Beyers Naude,EC101,AUDA,Total Community Wealth / Equity,639217661,Northern Cape,,
-2015,Dr Beyers Naude,EC101,AUDA,Total Non-Current Liabilities,35398548,Northern Cape,,
-2015,Dr Beyers Naude,EC101,AUDA,Total Current Liabilities,38669943,Northern Cape,,
-2015,Dr Beyers Naude,EC101,AUDA,Total Net Assets and Liabilities,713286152,Northern Cape,,
-2015,Dr Beyers Naude,EC101,AUDA,Total Non-Current Assets,660295215,Northern Cape,,
-2015,Dr Beyers Naude,EC101,AUDA,Total Current Assets,52990937,Northern Cape,,
-2015,Dr Beyers Naude,EC101,AUDA,Total Assets,713286152,Northern Cape,,
+2015,Dr Beyers Naude,EC101,AUDA,Total Community Wealth / Equity,639217661,Northern Cape,21.246215,21.246215
+2015,Dr Beyers Naude,EC101,AUDA,Total Non-Current Liabilities,35398548,Northern Cape,21.246215,21.246215
+2015,Dr Beyers Naude,EC101,AUDA,Total Current Liabilities,38669943,Northern Cape,21.246215,21.246215
+2015,Dr Beyers Naude,EC101,AUDA,Total Net Assets and Liabilities,713286152,Northern Cape,21.246215,21.246215
+2015,Dr Beyers Naude,EC101,AUDA,Total Non-Current Assets,660295215,Northern Cape,21.246215,21.246215
+2015,Dr Beyers Naude,EC101,AUDA,Total Current Assets,52990937,Northern Cape,21.246215,21.246215
+2015,Dr Beyers Naude,EC101,AUDA,Total Assets,713286152,Northern Cape,21.246215,21.246215
 2015,Blue Crane Route,EC102,AUDA,Total Community Wealth / Equity,636195190,Northern Cape,24.3341432,24.3341432
 2015,Blue Crane Route,EC102,AUDA,Total Non-Current Liabilities,55624120,Northern Cape,24.3341432,24.3341432
 2015,Blue Crane Route,EC102,AUDA,Total Current Liabilities,30596659,Northern Cape,24.3341432,24.3341432
@@ -4213,19 +4213,19 @@
 2015,Blue Crane Route,EC102,AUDA,Total Non-Current Assets,684835409,Northern Cape,24.3341432,24.3341432
 2015,Blue Crane Route,EC102,AUDA,Total Current Assets,37580560,Northern Cape,24.3341432,24.3341432
 2015,Blue Crane Route,EC102,AUDA,Total Assets,722415969,Northern Cape,24.3341432,24.3341432
-2015,Ikwezi,EC103,AUDA,Total Community Wealth / Equity,96281903,Eastern Cape,,
+2015,Ikwezi,EC103,AUDA,Total Community Wealth / Equity,96281903,Eastern Cape,24.371068,24.371068
 2015,Ikwezi,EC103,AUDA,Total Non-Current Liabilities,8713143,Eastern Cape,24.3341432,24.3341432
-2015,Ikwezi,EC103,AUDA,Total Current Liabilities,44039499,Eastern Cape,,
+2015,Ikwezi,EC103,AUDA,Total Current Liabilities,44039499,Eastern Cape,24.371068,24.371068
 2015,Ikwezi,EC103,AUDA,Total Net Assets and Liabilities,149034545,Eastern Cape,24.3341432,24.3341432
-2015,Ikwezi,EC103,AUDA,Total Non-Current Assets,145777609,Eastern Cape,,
+2015,Ikwezi,EC103,AUDA,Total Non-Current Assets,145777609,Eastern Cape,24.371068,24.371068
 2015,Ikwezi,EC103,AUDA,Total Current Assets,3256936,Eastern Cape,24.3341432,24.3341432
-2015,Ikwezi,EC103,AUDA,Total Assets,149034545,Eastern Cape,,
+2015,Ikwezi,EC103,AUDA,Total Assets,149034545,Eastern Cape,24.371068,24.371068
 2015,Makana,EC104,AUDA,Total Community Wealth / Equity,889236018,Eastern Cape,24.3341432,24.3341432
-2015,Makana,EC104,AUDA,Total Non-Current Liabilities,147151261,Eastern Cape,,
+2015,Makana,EC104,AUDA,Total Non-Current Liabilities,147151261,Eastern Cape,24.371068,24.371068
 2015,Makana,EC104,AUDA,Total Current Liabilities,167152642,Eastern Cape,24.3341432,24.3341432
-2015,Makana,EC104,AUDA,Total Net Assets and Liabilities,1203539921,Eastern Cape,,
+2015,Makana,EC104,AUDA,Total Net Assets and Liabilities,1203539921,Eastern Cape,24.371068,24.371068
 2015,Makana,EC104,AUDA,Total Non-Current Assets,1105453314,Eastern Cape,24.3341432,24.3341432
-2015,Makana,EC104,AUDA,Total Current Assets,98086607,Eastern Cape,,
+2015,Makana,EC104,AUDA,Total Current Assets,98086607,Eastern Cape,24.371068,24.371068
 2015,Makana,EC104,AUDA,Total Assets,1203539921,Eastern Cape,24.3341432,24.3341432
 2015,Ndlambe,EC105,AUDA,Total Community Wealth / Equity,699315821,Eastern Cape,25.4733554,25.4733554
 2015,Ndlambe,EC105,AUDA,Total Non-Current Liabilities,85633623,Eastern Cape,25.4733554,25.4733554
@@ -5368,13 +5368,13 @@
 2015,Umsobomvu,NC072,AUDA,Total Non-Current Assets,515046587,Northern Cape,20.902977,20.902977
 2015,Umsobomvu,NC072,AUDA,Total Current Assets,69264964,Northern Cape,20.902977,20.902977
 2015,Umsobomvu,NC072,AUDA,Total Assets,584311551,Northern Cape,20.902977,20.902977
-2015,Emthanjeni,NC073,AUDA,Total Community Wealth / Equity,909542620,Northern Cape,,
-2015,Emthanjeni,NC073,AUDA,Total Non-Current Liabilities,54197955,Northern Cape,,
-2015,Emthanjeni,NC073,AUDA,Total Current Liabilities,45642541,Northern Cape,,
-2015,Emthanjeni,NC073,AUDA,Total Net Assets and Liabilities,1009383116,Northern Cape,,
-2015,Emthanjeni,NC073,AUDA,Total Non-Current Assets,883981930,Northern Cape,,
-2015,Emthanjeni,NC073,AUDA,Total Current Assets,125401186,Northern Cape,,
-2015,Emthanjeni,NC073,AUDA,Total Assets,1009383116,Northern Cape,,
+2015,Emthanjeni,NC073,AUDA,Total Community Wealth / Equity,909542620,Northern Cape,19.237649,19.237649
+2015,Emthanjeni,NC073,AUDA,Total Non-Current Liabilities,54197955,Northern Cape,19.237649,19.237649
+2015,Emthanjeni,NC073,AUDA,Total Current Liabilities,45642541,Northern Cape,19.237649,19.237649
+2015,Emthanjeni,NC073,AUDA,Total Net Assets and Liabilities,1009383116,Northern Cape,19.237649,19.237649
+2015,Emthanjeni,NC073,AUDA,Total Non-Current Assets,883981930,Northern Cape,19.237649,19.237649
+2015,Emthanjeni,NC073,AUDA,Total Current Assets,125401186,Northern Cape,19.237649,19.237649
+2015,Emthanjeni,NC073,AUDA,Total Assets,1009383116,Northern Cape,19.237649,19.237649
 2015,Kareeberg,NC074,AUDA,Total Community Wealth / Equity,131495649,Northern Cape,23.1918021,23.1918021
 2015,Kareeberg,NC074,AUDA,Total Non-Current Liabilities,10722558,Northern Cape,23.1918021,23.1918021
 2015,Kareeberg,NC074,AUDA,Total Current Liabilities,5061369,Northern Cape,23.1918021,23.1918021

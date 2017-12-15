@@ -131,17 +131,17 @@
 2013,Pixley ka Seme,DC7,fruitless,471000.0,Northern Cape,23.3823545,23.3823545
 2013,Pixley ka Seme,DC7,irregular,31476000.0,Northern Cape,23.3823545,23.3823545
 2013,Pixley ka Seme,DC7,unauthorised,661000.0,Northern Cape,23.3823545,23.3823545
-2013,Z F Mgcawu,DC8,fruitless,0.0,Northern Cape,,
-2013,Z F Mgcawu,DC8,irregular,3960000.0,Northern Cape,,
-2013,Z F Mgcawu,DC8,unauthorised,0.0,Northern Cape,,
+2013,Z F Mgcawu,DC8,fruitless,0.0,Northern Cape,21.246215,21.246215
+2013,Z F Mgcawu,DC8,irregular,3960000.0,Northern Cape,21.246215,21.246215
+2013,Z F Mgcawu,DC8,unauthorised,0.0,Northern Cape,21.246215,21.246215
 2013,Frances Baard,DC9,fruitless,182000.0,Northern Cape,24.3341432,24.3341432
 2013,Frances Baard,DC9,irregular,184000.0,Northern Cape,24.3341432,24.3341432
 2013,Frances Baard,DC9,unauthorised,1000000.0,Northern Cape,24.3341432,24.3341432
-2013,Dr Beyers Naude,EC101,fruitless,39000.0,Eastern Cape,,
+2013,Dr Beyers Naude,EC101,fruitless,39000.0,Eastern Cape,24.371068,24.371068
 2013,Dr Beyers Naude,EC101,irregular,1279000.0,Eastern Cape,24.3341432,24.3341432
-2013,Dr Beyers Naude,EC101,unauthorised,15196000.0,Eastern Cape,,
+2013,Dr Beyers Naude,EC101,unauthorised,15196000.0,Eastern Cape,24.371068,24.371068
 2013,Blue Crane Route,EC102,fruitless,15000.0,Eastern Cape,24.3341432,24.3341432
-2013,Blue Crane Route,EC102,irregular,21480000.0,Eastern Cape,,
+2013,Blue Crane Route,EC102,irregular,21480000.0,Eastern Cape,24.371068,24.371068
 2013,Blue Crane Route,EC102,unauthorised,357000.0,Eastern Cape,24.3341432,24.3341432
 2013,Ikwezi,EC103,fruitless,149000.0,Eastern Cape,25.4733554,25.4733554
 2013,Ikwezi,EC103,irregular,9579000.0,Eastern Cape,25.4733554,25.4733554
@@ -632,9 +632,9 @@
 2013,Khâi-Ma,NC067,fruitless,66000.0,Northern Cape,20.902977,20.902977
 2013,Khâi-Ma,NC067,irregular,11072000.0,Northern Cape,20.902977,20.902977
 2013,Khâi-Ma,NC067,unauthorised,5581000.0,Northern Cape,20.902977,20.902977
-2013,Ubuntu,NC071,fruitless,0.0,Northern Cape,,
-2013,Ubuntu,NC071,irregular,1895000.0,Northern Cape,,
-2013,Ubuntu,NC071,unauthorised,0.0,Northern Cape,,
+2013,Ubuntu,NC071,fruitless,0.0,Northern Cape,19.237649,19.237649
+2013,Ubuntu,NC071,irregular,1895000.0,Northern Cape,19.237649,19.237649
+2013,Ubuntu,NC071,unauthorised,0.0,Northern Cape,19.237649,19.237649
 2013,Umsobomvu,NC072,fruitless,0.0,Northern Cape,23.1918021,23.1918021
 2013,Umsobomvu,NC072,irregular,2903000.0,Northern Cape,23.1918021,23.1918021
 2013,Umsobomvu,NC072,unauthorised,89960000.0,Northern Cape,23.1918021,23.1918021
@@ -965,17 +965,17 @@
 2014,Z F Mgcawu,DC8,fruitless,15868.0,Northern Cape,23.3823545,23.3823545
 2014,Z F Mgcawu,DC8,irregular,0.0,Northern Cape,23.3823545,23.3823545
 2014,Z F Mgcawu,DC8,unauthorised,6641544.0,Northern Cape,23.3823545,23.3823545
-2014,Frances Baard,DC9,fruitless,117410.0,Northern Cape,,
-2014,Frances Baard,DC9,irregular,585066.0,Northern Cape,,
-2014,Frances Baard,DC9,unauthorised,695884.0,Northern Cape,,
+2014,Frances Baard,DC9,fruitless,117410.0,Northern Cape,21.246215,21.246215
+2014,Frances Baard,DC9,irregular,585066.0,Northern Cape,21.246215,21.246215
+2014,Frances Baard,DC9,unauthorised,695884.0,Northern Cape,21.246215,21.246215
 2014,Dr Beyers Naude,EC101,fruitless,91288.0,Northern Cape,24.3341432,24.3341432
 2014,Dr Beyers Naude,EC101,irregular,1049369.0,Northern Cape,24.3341432,24.3341432
 2014,Dr Beyers Naude,EC101,unauthorised,20092174.0,Northern Cape,24.3341432,24.3341432
-2014,Blue Crane Route,EC102,fruitless,20975.0,Eastern Cape,,
+2014,Blue Crane Route,EC102,fruitless,20975.0,Eastern Cape,24.371068,24.371068
 2014,Blue Crane Route,EC102,irregular,28659172.0,Eastern Cape,24.3341432,24.3341432
-2014,Blue Crane Route,EC102,unauthorised,12828308.0,Eastern Cape,,
+2014,Blue Crane Route,EC102,unauthorised,12828308.0,Eastern Cape,24.371068,24.371068
 2014,Ikwezi,EC103,fruitless,900000.0,Eastern Cape,24.3341432,24.3341432
-2014,Ikwezi,EC103,irregular,10184000.0,Eastern Cape,,
+2014,Ikwezi,EC103,irregular,10184000.0,Eastern Cape,24.371068,24.371068
 2014,Ikwezi,EC103,unauthorised,74000000.0,Eastern Cape,24.3341432,24.3341432
 2014,Makana,EC104,fruitless,888984.0,Eastern Cape,25.4733554,25.4733554
 2014,Makana,EC104,irregular,115260000.0,Eastern Cape,25.4733554,25.4733554
@@ -1469,9 +1469,9 @@
 2014,Ubuntu,NC071,fruitless,54152.0,Northern Cape,20.902977,20.902977
 2014,Ubuntu,NC071,irregular,12677374.0,Northern Cape,20.902977,20.902977
 2014,Ubuntu,NC071,unauthorised,46185412.0,Northern Cape,20.902977,20.902977
-2014,Umsobomvu,NC072,fruitless,0.0,Northern Cape,,
-2014,Umsobomvu,NC072,irregular,3472499.0,Northern Cape,,
-2014,Umsobomvu,NC072,unauthorised,1496054.0,Northern Cape,,
+2014,Umsobomvu,NC072,fruitless,0.0,Northern Cape,19.237649,19.237649
+2014,Umsobomvu,NC072,irregular,3472499.0,Northern Cape,19.237649,19.237649
+2014,Umsobomvu,NC072,unauthorised,1496054.0,Northern Cape,19.237649,19.237649
 2014,Emthanjeni,NC073,fruitless,73356.0,Northern Cape,23.1918021,23.1918021
 2014,Emthanjeni,NC073,irregular,13140889.0,Northern Cape,23.1918021,23.1918021
 2014,Emthanjeni,NC073,unauthorised,95735235.0,Northern Cape,23.1918021,23.1918021
@@ -1802,17 +1802,17 @@
 2015,Frances Baard,DC9,fruitless,58602.0,Northern Cape,23.3823545,23.3823545
 2015,Frances Baard,DC9,irregular,0.0,Northern Cape,23.3823545,23.3823545
 2015,Frances Baard,DC9,unauthorised,0.0,Northern Cape,23.3823545,23.3823545
-2015,Dr Beyers Naude,EC101,fruitless,13814.0,Northern Cape,,
-2015,Dr Beyers Naude,EC101,irregular,0.0,Northern Cape,,
-2015,Dr Beyers Naude,EC101,unauthorised,14313998.0,Northern Cape,,
+2015,Dr Beyers Naude,EC101,fruitless,13814.0,Northern Cape,21.246215,21.246215
+2015,Dr Beyers Naude,EC101,irregular,0.0,Northern Cape,21.246215,21.246215
+2015,Dr Beyers Naude,EC101,unauthorised,14313998.0,Northern Cape,21.246215,21.246215
 2015,Blue Crane Route,EC102,fruitless,991.0,Northern Cape,24.3341432,24.3341432
 2015,Blue Crane Route,EC102,irregular,39594971.0,Northern Cape,24.3341432,24.3341432
 2015,Blue Crane Route,EC102,unauthorised,1928317.0,Northern Cape,24.3341432,24.3341432
-2015,Ikwezi,EC103,fruitless,0.0,Eastern Cape,,
+2015,Ikwezi,EC103,fruitless,0.0,Eastern Cape,24.371068,24.371068
 2015,Ikwezi,EC103,irregular,22800000.0,Eastern Cape,24.3341432,24.3341432
-2015,Ikwezi,EC103,unauthorised,10715448.0,Eastern Cape,,
+2015,Ikwezi,EC103,unauthorised,10715448.0,Eastern Cape,24.371068,24.371068
 2015,Makana,EC104,fruitless,5766340.0,Eastern Cape,24.3341432,24.3341432
-2015,Makana,EC104,irregular,520749.0,Eastern Cape,,
+2015,Makana,EC104,irregular,520749.0,Eastern Cape,24.371068,24.371068
 2015,Makana,EC104,unauthorised,31781485.0,Eastern Cape,24.3341432,24.3341432
 2015,Ndlambe,EC105,fruitless,39000.0,Eastern Cape,25.4733554,25.4733554
 2015,Ndlambe,EC105,irregular,198318810.0,Eastern Cape,25.4733554,25.4733554
@@ -2306,9 +2306,9 @@
 2015,Umsobomvu,NC072,fruitless,0.0,Northern Cape,20.902977,20.902977
 2015,Umsobomvu,NC072,irregular,2268090.0,Northern Cape,20.902977,20.902977
 2015,Umsobomvu,NC072,unauthorised,7145759.0,Northern Cape,20.902977,20.902977
-2015,Emthanjeni,NC073,fruitless,0.0,Northern Cape,,
-2015,Emthanjeni,NC073,irregular,10598860.0,Northern Cape,,
-2015,Emthanjeni,NC073,unauthorised,69181215.0,Northern Cape,,
+2015,Emthanjeni,NC073,fruitless,0.0,Northern Cape,19.237649,19.237649
+2015,Emthanjeni,NC073,irregular,10598860.0,Northern Cape,19.237649,19.237649
+2015,Emthanjeni,NC073,unauthorised,69181215.0,Northern Cape,19.237649,19.237649
 2015,Kareeberg,NC074,fruitless,0.0,Northern Cape,23.1918021,23.1918021
 2015,Kareeberg,NC074,irregular,0.0,Northern Cape,23.1918021,23.1918021
 2015,Kareeberg,NC074,unauthorised,2798665.0,Northern Cape,23.1918021,23.1918021

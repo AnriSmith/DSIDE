@@ -351,14 +351,14 @@
 2013,0,AUDA,DC7,Pixley ka Seme,Total Indirect Operating Expenditure,Northern Cape,23.3823545,23.3823545
 2013,44273051,AUDA,DC7,Pixley ka Seme,Total Operating Expenditure,Northern Cape,23.3823545,23.3823545
 2013,-5010727,AUDA,DC7,Pixley ka Seme,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,23.3823545,23.3823545
-2013,61853885,AUDA,DC8,Z F Mgcawu,Total Operating Revenue Generated,Northern Cape,,
-2013,61853885,AUDA,DC8,Z F Mgcawu,Total Direct Operating Revenue,Northern Cape,,
-2013,0,AUDA,DC8,Z F Mgcawu,Total Indirect Operating Revenue,Northern Cape,,
-2013,61853885,AUDA,DC8,Z F Mgcawu,Total Operating Revenue,Northern Cape,,
-2013,58575449,AUDA,DC8,Z F Mgcawu,Total Direct Operating Expenditure,Northern Cape,,
-2013,0,AUDA,DC8,Z F Mgcawu,Total Indirect Operating Expenditure,Northern Cape,,
-2013,58575449,AUDA,DC8,Z F Mgcawu,Total Operating Expenditure,Northern Cape,,
-2013,3278436,AUDA,DC8,Z F Mgcawu,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,,
+2013,61853885,AUDA,DC8,Z F Mgcawu,Total Operating Revenue Generated,Northern Cape,21.246215,21.246215
+2013,61853885,AUDA,DC8,Z F Mgcawu,Total Direct Operating Revenue,Northern Cape,21.246215,21.246215
+2013,0,AUDA,DC8,Z F Mgcawu,Total Indirect Operating Revenue,Northern Cape,21.246215,21.246215
+2013,61853885,AUDA,DC8,Z F Mgcawu,Total Operating Revenue,Northern Cape,21.246215,21.246215
+2013,58575449,AUDA,DC8,Z F Mgcawu,Total Direct Operating Expenditure,Northern Cape,21.246215,21.246215
+2013,0,AUDA,DC8,Z F Mgcawu,Total Indirect Operating Expenditure,Northern Cape,21.246215,21.246215
+2013,58575449,AUDA,DC8,Z F Mgcawu,Total Operating Expenditure,Northern Cape,21.246215,21.246215
+2013,3278436,AUDA,DC8,Z F Mgcawu,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,21.246215,21.246215
 2013,101920686,AUDA,DC9,Frances Baard,Total Operating Revenue Generated,Northern Cape,24.3341432,24.3341432
 2013,101920686,AUDA,DC9,Frances Baard,Total Direct Operating Revenue,Northern Cape,24.3341432,24.3341432
 2013,0,AUDA,DC9,Frances Baard,Total Indirect Operating Revenue,Northern Cape,24.3341432,24.3341432
@@ -367,21 +367,21 @@
 2013,0,AUDA,DC9,Frances Baard,Total Indirect Operating Expenditure,Northern Cape,24.3341432,24.3341432
 2013,99554980,AUDA,DC9,Frances Baard,Total Operating Expenditure,Northern Cape,24.3341432,24.3341432
 2013,2365706,AUDA,DC9,Frances Baard,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,24.3341432,24.3341432
-2013,169496063,AUDA,EC101,Dr Beyers Naude,Total Operating Revenue Generated,Eastern Cape,,
+2013,169496063,AUDA,EC101,Dr Beyers Naude,Total Operating Revenue Generated,Eastern Cape,24.371068,24.371068
 2013,169496063,AUDA,EC101,Dr Beyers Naude,Total Direct Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2013,0,AUDA,EC101,Dr Beyers Naude,Total Indirect Operating Revenue,Eastern Cape,,
+2013,0,AUDA,EC101,Dr Beyers Naude,Total Indirect Operating Revenue,Eastern Cape,24.371068,24.371068
 2013,169496063,AUDA,EC101,Dr Beyers Naude,Total Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2013,188802353,AUDA,EC101,Dr Beyers Naude,Total Direct Operating Expenditure,Eastern Cape,,
+2013,188802353,AUDA,EC101,Dr Beyers Naude,Total Direct Operating Expenditure,Eastern Cape,24.371068,24.371068
 2013,0,AUDA,EC101,Dr Beyers Naude,Total Indirect Operating Expenditure,Eastern Cape,24.3341432,24.3341432
-2013,188802353,AUDA,EC101,Dr Beyers Naude,Total Operating Expenditure,Eastern Cape,,
+2013,188802353,AUDA,EC101,Dr Beyers Naude,Total Operating Expenditure,Eastern Cape,24.371068,24.371068
 2013,-19306290,AUDA,EC101,Dr Beyers Naude,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Eastern Cape,24.3341432,24.3341432
-2013,179828454,AUDA,EC102,Blue Crane Route,Total Operating Revenue Generated,Eastern Cape,,
+2013,179828454,AUDA,EC102,Blue Crane Route,Total Operating Revenue Generated,Eastern Cape,24.371068,24.371068
 2013,179828454,AUDA,EC102,Blue Crane Route,Total Direct Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2013,0,AUDA,EC102,Blue Crane Route,Total Indirect Operating Revenue,Eastern Cape,,
+2013,0,AUDA,EC102,Blue Crane Route,Total Indirect Operating Revenue,Eastern Cape,24.371068,24.371068
 2013,179828454,AUDA,EC102,Blue Crane Route,Total Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2013,182020708,AUDA,EC102,Blue Crane Route,Total Direct Operating Expenditure,Eastern Cape,,
+2013,182020708,AUDA,EC102,Blue Crane Route,Total Direct Operating Expenditure,Eastern Cape,24.371068,24.371068
 2013,0,AUDA,EC102,Blue Crane Route,Total Indirect Operating Expenditure,Eastern Cape,24.3341432,24.3341432
-2013,182020708,AUDA,EC102,Blue Crane Route,Total Operating Expenditure,Eastern Cape,,
+2013,182020708,AUDA,EC102,Blue Crane Route,Total Operating Expenditure,Eastern Cape,24.371068,24.371068
 2013,-2192254,AUDA,EC102,Blue Crane Route,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Eastern Cape,24.3341432,24.3341432
 2013,43599719,AUDA,EC103,Ikwezi,Total Operating Revenue Generated,Eastern Cape,25.4733554,25.4733554
 2013,43599719,AUDA,EC103,Ikwezi,Total Direct Operating Revenue,Eastern Cape,25.4733554,25.4733554
@@ -1687,14 +1687,14 @@
 2013,0,AUDA,NC067,Khâi-Ma,Total Indirect Operating Expenditure,Northern Cape,20.902977,20.902977
 2013,40568748,AUDA,NC067,Khâi-Ma,Total Operating Expenditure,Northern Cape,20.902977,20.902977
 2013,545518,AUDA,NC067,Khâi-Ma,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,20.902977,20.902977
-2013,73485266,AUDA,NC071,Ubuntu,Total Operating Revenue Generated,Northern Cape,,
-2013,73485266,AUDA,NC071,Ubuntu,Total Direct Operating Revenue,Northern Cape,,
-2013,0,AUDA,NC071,Ubuntu,Total Indirect Operating Revenue,Northern Cape,,
-2013,73485266,AUDA,NC071,Ubuntu,Total Operating Revenue,Northern Cape,,
-2013,76301406,AUDA,NC071,Ubuntu,Total Direct Operating Expenditure,Northern Cape,,
-2013,0,AUDA,NC071,Ubuntu,Total Indirect Operating Expenditure,Northern Cape,,
-2013,76301406,AUDA,NC071,Ubuntu,Total Operating Expenditure,Northern Cape,,
-2013,-2816140,AUDA,NC071,Ubuntu,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,,
+2013,73485266,AUDA,NC071,Ubuntu,Total Operating Revenue Generated,Northern Cape,19.237649,19.237649
+2013,73485266,AUDA,NC071,Ubuntu,Total Direct Operating Revenue,Northern Cape,19.237649,19.237649
+2013,0,AUDA,NC071,Ubuntu,Total Indirect Operating Revenue,Northern Cape,19.237649,19.237649
+2013,73485266,AUDA,NC071,Ubuntu,Total Operating Revenue,Northern Cape,19.237649,19.237649
+2013,76301406,AUDA,NC071,Ubuntu,Total Direct Operating Expenditure,Northern Cape,19.237649,19.237649
+2013,0,AUDA,NC071,Ubuntu,Total Indirect Operating Expenditure,Northern Cape,19.237649,19.237649
+2013,76301406,AUDA,NC071,Ubuntu,Total Operating Expenditure,Northern Cape,19.237649,19.237649
+2013,-2816140,AUDA,NC071,Ubuntu,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,19.237649,19.237649
 2013,146916245,AUDA,NC072,Umsobomvu,Total Operating Revenue Generated,Northern Cape,23.1918021,23.1918021
 2013,146809971,AUDA,NC072,Umsobomvu,Total Direct Operating Revenue,Northern Cape,23.1918021,23.1918021
 2013,0,AUDA,NC072,Umsobomvu,Total Indirect Operating Revenue,Northern Cape,23.1918021,23.1918021
@@ -2575,14 +2575,14 @@
 2014,0,AUDA,DC8,Z F Mgcawu,Total Indirect Operating Expenditure,Northern Cape,23.3823545,23.3823545
 2014,63279429,AUDA,DC8,Z F Mgcawu,Total Operating Expenditure,Northern Cape,23.3823545,23.3823545
 2014,-8857012,AUDA,DC8,Z F Mgcawu,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,23.3823545,23.3823545
-2014,102091472,AUDA,DC9,Frances Baard,Total Operating Revenue Generated,Northern Cape,,
-2014,102091472,AUDA,DC9,Frances Baard,Total Direct Operating Revenue,Northern Cape,,
-2014,0,AUDA,DC9,Frances Baard,Total Indirect Operating Revenue,Northern Cape,,
-2014,102091472,AUDA,DC9,Frances Baard,Total Operating Revenue,Northern Cape,,
-2014,102302541,AUDA,DC9,Frances Baard,Total Direct Operating Expenditure,Northern Cape,,
-2014,0,AUDA,DC9,Frances Baard,Total Indirect Operating Expenditure,Northern Cape,,
-2014,102302541,AUDA,DC9,Frances Baard,Total Operating Expenditure,Northern Cape,,
-2014,-211069,AUDA,DC9,Frances Baard,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,,
+2014,102091472,AUDA,DC9,Frances Baard,Total Operating Revenue Generated,Northern Cape,21.246215,21.246215
+2014,102091472,AUDA,DC9,Frances Baard,Total Direct Operating Revenue,Northern Cape,21.246215,21.246215
+2014,0,AUDA,DC9,Frances Baard,Total Indirect Operating Revenue,Northern Cape,21.246215,21.246215
+2014,102091472,AUDA,DC9,Frances Baard,Total Operating Revenue,Northern Cape,21.246215,21.246215
+2014,102302541,AUDA,DC9,Frances Baard,Total Direct Operating Expenditure,Northern Cape,21.246215,21.246215
+2014,0,AUDA,DC9,Frances Baard,Total Indirect Operating Expenditure,Northern Cape,21.246215,21.246215
+2014,102302541,AUDA,DC9,Frances Baard,Total Operating Expenditure,Northern Cape,21.246215,21.246215
+2014,-211069,AUDA,DC9,Frances Baard,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,21.246215,21.246215
 2014,187929480,AUDA,EC101,Dr Beyers Naude,Total Operating Revenue Generated,Northern Cape,24.3341432,24.3341432
 2014,187929480,AUDA,EC101,Dr Beyers Naude,Total Direct Operating Revenue,Northern Cape,24.3341432,24.3341432
 2014,0,AUDA,EC101,Dr Beyers Naude,Total Indirect Operating Revenue,Northern Cape,24.3341432,24.3341432
@@ -2591,21 +2591,21 @@
 2014,0,AUDA,EC101,Dr Beyers Naude,Total Indirect Operating Expenditure,Northern Cape,24.3341432,24.3341432
 2014,204362998,AUDA,EC101,Dr Beyers Naude,Total Operating Expenditure,Northern Cape,24.3341432,24.3341432
 2014,-16433518,AUDA,EC101,Dr Beyers Naude,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,24.3341432,24.3341432
-2014,185845849,AUDA,EC102,Blue Crane Route,Total Operating Revenue Generated,Eastern Cape,,
+2014,185845849,AUDA,EC102,Blue Crane Route,Total Operating Revenue Generated,Eastern Cape,24.371068,24.371068
 2014,185845849,AUDA,EC102,Blue Crane Route,Total Direct Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2014,0,AUDA,EC102,Blue Crane Route,Total Indirect Operating Revenue,Eastern Cape,,
+2014,0,AUDA,EC102,Blue Crane Route,Total Indirect Operating Revenue,Eastern Cape,24.371068,24.371068
 2014,185845849,AUDA,EC102,Blue Crane Route,Total Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2014,182445904,AUDA,EC102,Blue Crane Route,Total Direct Operating Expenditure,Eastern Cape,,
+2014,182445904,AUDA,EC102,Blue Crane Route,Total Direct Operating Expenditure,Eastern Cape,24.371068,24.371068
 2014,0,AUDA,EC102,Blue Crane Route,Total Indirect Operating Expenditure,Eastern Cape,24.3341432,24.3341432
-2014,182445904,AUDA,EC102,Blue Crane Route,Total Operating Expenditure,Eastern Cape,,
+2014,182445904,AUDA,EC102,Blue Crane Route,Total Operating Expenditure,Eastern Cape,24.371068,24.371068
 2014,3399945,AUDA,EC102,Blue Crane Route,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Eastern Cape,24.3341432,24.3341432
-2014,51474239,AUDA,EC103,Ikwezi,Total Operating Revenue Generated,Eastern Cape,,
+2014,51474239,AUDA,EC103,Ikwezi,Total Operating Revenue Generated,Eastern Cape,24.371068,24.371068
 2014,51474239,AUDA,EC103,Ikwezi,Total Direct Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2014,0,AUDA,EC103,Ikwezi,Total Indirect Operating Revenue,Eastern Cape,,
+2014,0,AUDA,EC103,Ikwezi,Total Indirect Operating Revenue,Eastern Cape,24.371068,24.371068
 2014,51474239,AUDA,EC103,Ikwezi,Total Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2014,54134523,AUDA,EC103,Ikwezi,Total Direct Operating Expenditure,Eastern Cape,,
+2014,54134523,AUDA,EC103,Ikwezi,Total Direct Operating Expenditure,Eastern Cape,24.371068,24.371068
 2014,0,AUDA,EC103,Ikwezi,Total Indirect Operating Expenditure,Eastern Cape,24.3341432,24.3341432
-2014,54134523,AUDA,EC103,Ikwezi,Total Operating Expenditure,Eastern Cape,,
+2014,54134523,AUDA,EC103,Ikwezi,Total Operating Expenditure,Eastern Cape,24.371068,24.371068
 2014,-2660284,AUDA,EC103,Ikwezi,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Eastern Cape,24.3341432,24.3341432
 2014,353437518,AUDA,EC104,Makana,Total Operating Revenue Generated,Eastern Cape,25.4733554,25.4733554
 2014,353437518,AUDA,EC104,Makana,Total Direct Operating Revenue,Eastern Cape,25.4733554,25.4733554
@@ -3903,14 +3903,14 @@
 2014,0,AUDA,NC067,Khâi-Ma,Total Indirect Operating Expenditure,Northern Cape,20.902977,20.902977
 2014,63112784,AUDA,NC067,Khâi-Ma,Total Operating Expenditure,Northern Cape,20.902977,20.902977
 2014,-5614620,AUDA,NC067,Khâi-Ma,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,20.902977,20.902977
-2014,119273936,AUDA,NC071,Ubuntu,Total Operating Revenue Generated,Northern Cape,,
-2014,119273936,AUDA,NC071,Ubuntu,Total Direct Operating Revenue,Northern Cape,,
-2014,0,AUDA,NC071,Ubuntu,Total Indirect Operating Revenue,Northern Cape,,
-2014,119273936,AUDA,NC071,Ubuntu,Total Operating Revenue,Northern Cape,,
-2014,115372233,AUDA,NC071,Ubuntu,Total Direct Operating Expenditure,Northern Cape,,
-2014,0,AUDA,NC071,Ubuntu,Total Indirect Operating Expenditure,Northern Cape,,
-2014,115372233,AUDA,NC071,Ubuntu,Total Operating Expenditure,Northern Cape,,
-2014,3901703,AUDA,NC071,Ubuntu,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,,
+2014,119273936,AUDA,NC071,Ubuntu,Total Operating Revenue Generated,Northern Cape,19.237649,19.237649
+2014,119273936,AUDA,NC071,Ubuntu,Total Direct Operating Revenue,Northern Cape,19.237649,19.237649
+2014,0,AUDA,NC071,Ubuntu,Total Indirect Operating Revenue,Northern Cape,19.237649,19.237649
+2014,119273936,AUDA,NC071,Ubuntu,Total Operating Revenue,Northern Cape,19.237649,19.237649
+2014,115372233,AUDA,NC071,Ubuntu,Total Direct Operating Expenditure,Northern Cape,19.237649,19.237649
+2014,0,AUDA,NC071,Ubuntu,Total Indirect Operating Expenditure,Northern Cape,19.237649,19.237649
+2014,115372233,AUDA,NC071,Ubuntu,Total Operating Expenditure,Northern Cape,19.237649,19.237649
+2014,3901703,AUDA,NC071,Ubuntu,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,19.237649,19.237649
 2014,147556744,AUDA,NC072,Umsobomvu,Total Operating Revenue Generated,Northern Cape,23.1918021,23.1918021
 2014,147442086,AUDA,NC072,Umsobomvu,Total Direct Operating Revenue,Northern Cape,23.1918021,23.1918021
 2014,0,AUDA,NC072,Umsobomvu,Total Indirect Operating Revenue,Northern Cape,23.1918021,23.1918021
@@ -4783,14 +4783,14 @@
 2015,0,AUDA,DC8,Z F Mgcawu,Total Indirect Operating Expenditure,Northern Cape,23.3823545,23.3823545
 2015,59129937,AUDA,DC8,Z F Mgcawu,Total Operating Expenditure,Northern Cape,23.3823545,23.3823545
 2015,-4683775,AUDA,DC8,Z F Mgcawu,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,23.3823545,23.3823545
-2015,110401519,AUDA,DC9,Frances Baard,Total Operating Revenue Generated,Northern Cape,,
-2015,110401519,AUDA,DC9,Frances Baard,Total Direct Operating Revenue,Northern Cape,,
-2015,0,AUDA,DC9,Frances Baard,Total Indirect Operating Revenue,Northern Cape,,
-2015,110401519,AUDA,DC9,Frances Baard,Total Operating Revenue,Northern Cape,,
-2015,112868897,AUDA,DC9,Frances Baard,Total Direct Operating Expenditure,Northern Cape,,
-2015,0,AUDA,DC9,Frances Baard,Total Indirect Operating Expenditure,Northern Cape,,
-2015,112868897,AUDA,DC9,Frances Baard,Total Operating Expenditure,Northern Cape,,
-2015,-2467378,AUDA,DC9,Frances Baard,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,,
+2015,110401519,AUDA,DC9,Frances Baard,Total Operating Revenue Generated,Northern Cape,21.246215,21.246215
+2015,110401519,AUDA,DC9,Frances Baard,Total Direct Operating Revenue,Northern Cape,21.246215,21.246215
+2015,0,AUDA,DC9,Frances Baard,Total Indirect Operating Revenue,Northern Cape,21.246215,21.246215
+2015,110401519,AUDA,DC9,Frances Baard,Total Operating Revenue,Northern Cape,21.246215,21.246215
+2015,112868897,AUDA,DC9,Frances Baard,Total Direct Operating Expenditure,Northern Cape,21.246215,21.246215
+2015,0,AUDA,DC9,Frances Baard,Total Indirect Operating Expenditure,Northern Cape,21.246215,21.246215
+2015,112868897,AUDA,DC9,Frances Baard,Total Operating Expenditure,Northern Cape,21.246215,21.246215
+2015,-2467378,AUDA,DC9,Frances Baard,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,21.246215,21.246215
 2015,219091847,AUDA,EC101,Dr Beyers Naude,Total Operating Revenue Generated,Northern Cape,24.3341432,24.3341432
 2015,219091847,AUDA,EC101,Dr Beyers Naude,Total Direct Operating Revenue,Northern Cape,24.3341432,24.3341432
 2015,0,AUDA,EC101,Dr Beyers Naude,Total Indirect Operating Revenue,Northern Cape,24.3341432,24.3341432
@@ -4799,21 +4799,21 @@
 2015,0,AUDA,EC101,Dr Beyers Naude,Total Indirect Operating Expenditure,Northern Cape,24.3341432,24.3341432
 2015,244167885,AUDA,EC101,Dr Beyers Naude,Total Operating Expenditure,Northern Cape,24.3341432,24.3341432
 2015,-25076038,AUDA,EC101,Dr Beyers Naude,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,24.3341432,24.3341432
-2015,185361664,AUDA,EC102,Blue Crane Route,Total Operating Revenue Generated,Eastern Cape,,
+2015,185361664,AUDA,EC102,Blue Crane Route,Total Operating Revenue Generated,Eastern Cape,24.371068,24.371068
 2015,185361664,AUDA,EC102,Blue Crane Route,Total Direct Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2015,0,AUDA,EC102,Blue Crane Route,Total Indirect Operating Revenue,Eastern Cape,,
+2015,0,AUDA,EC102,Blue Crane Route,Total Indirect Operating Revenue,Eastern Cape,24.371068,24.371068
 2015,185361664,AUDA,EC102,Blue Crane Route,Total Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2015,199337136,AUDA,EC102,Blue Crane Route,Total Direct Operating Expenditure,Eastern Cape,,
+2015,199337136,AUDA,EC102,Blue Crane Route,Total Direct Operating Expenditure,Eastern Cape,24.371068,24.371068
 2015,0,AUDA,EC102,Blue Crane Route,Total Indirect Operating Expenditure,Eastern Cape,24.3341432,24.3341432
-2015,199337136,AUDA,EC102,Blue Crane Route,Total Operating Expenditure,Eastern Cape,,
+2015,199337136,AUDA,EC102,Blue Crane Route,Total Operating Expenditure,Eastern Cape,24.371068,24.371068
 2015,-13975472,AUDA,EC102,Blue Crane Route,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Eastern Cape,24.3341432,24.3341432
-2015,49952848,AUDA,EC103,Ikwezi,Total Operating Revenue Generated,Eastern Cape,,
+2015,49952848,AUDA,EC103,Ikwezi,Total Operating Revenue Generated,Eastern Cape,24.371068,24.371068
 2015,49952848,AUDA,EC103,Ikwezi,Total Direct Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2015,0,AUDA,EC103,Ikwezi,Total Indirect Operating Revenue,Eastern Cape,,
+2015,0,AUDA,EC103,Ikwezi,Total Indirect Operating Revenue,Eastern Cape,24.371068,24.371068
 2015,49952848,AUDA,EC103,Ikwezi,Total Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2015,58557694,AUDA,EC103,Ikwezi,Total Direct Operating Expenditure,Eastern Cape,,
+2015,58557694,AUDA,EC103,Ikwezi,Total Direct Operating Expenditure,Eastern Cape,24.371068,24.371068
 2015,0,AUDA,EC103,Ikwezi,Total Indirect Operating Expenditure,Eastern Cape,24.3341432,24.3341432
-2015,58557694,AUDA,EC103,Ikwezi,Total Operating Expenditure,Eastern Cape,,
+2015,58557694,AUDA,EC103,Ikwezi,Total Operating Expenditure,Eastern Cape,24.371068,24.371068
 2015,-8604846,AUDA,EC103,Ikwezi,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Eastern Cape,24.3341432,24.3341432
 2015,356278401,AUDA,EC104,Makana,Total Operating Revenue Generated,Eastern Cape,25.4733554,25.4733554
 2015,356278401,AUDA,EC104,Makana,Total Direct Operating Revenue,Eastern Cape,25.4733554,25.4733554
@@ -6119,14 +6119,14 @@
 2015,0,AUDA,NC071,Ubuntu,Total Indirect Operating Expenditure,Northern Cape,20.902977,20.902977
 2015,111633116,AUDA,NC071,Ubuntu,Total Operating Expenditure,Northern Cape,20.902977,20.902977
 2015,8539010,AUDA,NC071,Ubuntu,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,20.902977,20.902977
-2015,149030519,AUDA,NC072,Umsobomvu,Total Operating Revenue Generated,Northern Cape,,
-2015,148783073,AUDA,NC072,Umsobomvu,Total Direct Operating Revenue,Northern Cape,,
-2015,0,AUDA,NC072,Umsobomvu,Total Indirect Operating Revenue,Northern Cape,,
-2015,148783073,AUDA,NC072,Umsobomvu,Total Operating Revenue,Northern Cape,,
-2015,129309824,AUDA,NC072,Umsobomvu,Total Direct Operating Expenditure,Northern Cape,,
-2015,0,AUDA,NC072,Umsobomvu,Total Indirect Operating Expenditure,Northern Cape,,
-2015,129309824,AUDA,NC072,Umsobomvu,Total Operating Expenditure,Northern Cape,,
-2015,19473249,AUDA,NC072,Umsobomvu,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,,
+2015,149030519,AUDA,NC072,Umsobomvu,Total Operating Revenue Generated,Northern Cape,19.237649,19.237649
+2015,148783073,AUDA,NC072,Umsobomvu,Total Direct Operating Revenue,Northern Cape,19.237649,19.237649
+2015,0,AUDA,NC072,Umsobomvu,Total Indirect Operating Revenue,Northern Cape,19.237649,19.237649
+2015,148783073,AUDA,NC072,Umsobomvu,Total Operating Revenue,Northern Cape,19.237649,19.237649
+2015,129309824,AUDA,NC072,Umsobomvu,Total Direct Operating Expenditure,Northern Cape,19.237649,19.237649
+2015,0,AUDA,NC072,Umsobomvu,Total Indirect Operating Expenditure,Northern Cape,19.237649,19.237649
+2015,129309824,AUDA,NC072,Umsobomvu,Total Operating Expenditure,Northern Cape,19.237649,19.237649
+2015,19473249,AUDA,NC072,Umsobomvu,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,19.237649,19.237649
 2015,209346567,AUDA,NC073,Emthanjeni,Total Operating Revenue Generated,Northern Cape,23.1918021,23.1918021
 2015,209346567,AUDA,NC073,Emthanjeni,Total Direct Operating Revenue,Northern Cape,23.1918021,23.1918021
 2015,0,AUDA,NC073,Emthanjeni,Total Indirect Operating Revenue,Northern Cape,23.1918021,23.1918021
@@ -6999,14 +6999,14 @@
 2016,0,AUDA,DC9,Frances Baard,Total Indirect Operating Expenditure,Northern Cape,23.3823545,23.3823545
 2016,137554985,AUDA,DC9,Frances Baard,Total Operating Expenditure,Northern Cape,23.3823545,23.3823545
 2016,-16496886,AUDA,DC9,Frances Baard,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,23.3823545,23.3823545
-2016,205416557,AUDA,EC101,Dr Beyers Naude,Total Operating Revenue Generated,Northern Cape,,
-2016,205416557,AUDA,EC101,Dr Beyers Naude,Total Direct Operating Revenue,Northern Cape,,
-2016,0,AUDA,EC101,Dr Beyers Naude,Total Indirect Operating Revenue,Northern Cape,,
-2016,205416557,AUDA,EC101,Dr Beyers Naude,Total Operating Revenue,Northern Cape,,
-2016,241219641,AUDA,EC101,Dr Beyers Naude,Total Direct Operating Expenditure,Northern Cape,,
-2016,0,AUDA,EC101,Dr Beyers Naude,Total Indirect Operating Expenditure,Northern Cape,,
-2016,241219641,AUDA,EC101,Dr Beyers Naude,Total Operating Expenditure,Northern Cape,,
-2016,-35803084,AUDA,EC101,Dr Beyers Naude,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,,
+2016,205416557,AUDA,EC101,Dr Beyers Naude,Total Operating Revenue Generated,Northern Cape,21.246215,21.246215
+2016,205416557,AUDA,EC101,Dr Beyers Naude,Total Direct Operating Revenue,Northern Cape,21.246215,21.246215
+2016,0,AUDA,EC101,Dr Beyers Naude,Total Indirect Operating Revenue,Northern Cape,21.246215,21.246215
+2016,205416557,AUDA,EC101,Dr Beyers Naude,Total Operating Revenue,Northern Cape,21.246215,21.246215
+2016,241219641,AUDA,EC101,Dr Beyers Naude,Total Direct Operating Expenditure,Northern Cape,21.246215,21.246215
+2016,0,AUDA,EC101,Dr Beyers Naude,Total Indirect Operating Expenditure,Northern Cape,21.246215,21.246215
+2016,241219641,AUDA,EC101,Dr Beyers Naude,Total Operating Expenditure,Northern Cape,21.246215,21.246215
+2016,-35803084,AUDA,EC101,Dr Beyers Naude,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,21.246215,21.246215
 2016,213675075,AUDA,EC102,Blue Crane Route,Total Operating Revenue Generated,Northern Cape,24.3341432,24.3341432
 2016,213675075,AUDA,EC102,Blue Crane Route,Total Direct Operating Revenue,Northern Cape,24.3341432,24.3341432
 2016,0,AUDA,EC102,Blue Crane Route,Total Indirect Operating Revenue,Northern Cape,24.3341432,24.3341432
@@ -7015,21 +7015,21 @@
 2016,0,AUDA,EC102,Blue Crane Route,Total Indirect Operating Expenditure,Northern Cape,24.3341432,24.3341432
 2016,217970285,AUDA,EC102,Blue Crane Route,Total Operating Expenditure,Northern Cape,24.3341432,24.3341432
 2016,-4295210,AUDA,EC102,Blue Crane Route,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,24.3341432,24.3341432
-2016,402107837,AUDA,EC104,Makana,Total Operating Revenue Generated,Eastern Cape,,
+2016,402107837,AUDA,EC104,Makana,Total Operating Revenue Generated,Eastern Cape,24.371068,24.371068
 2016,402107837,AUDA,EC104,Makana,Total Direct Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2016,0,AUDA,EC104,Makana,Total Indirect Operating Revenue,Eastern Cape,,
+2016,0,AUDA,EC104,Makana,Total Indirect Operating Revenue,Eastern Cape,24.371068,24.371068
 2016,402107837,AUDA,EC104,Makana,Total Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2016,471524223,AUDA,EC104,Makana,Total Direct Operating Expenditure,Eastern Cape,,
+2016,471524223,AUDA,EC104,Makana,Total Direct Operating Expenditure,Eastern Cape,24.371068,24.371068
 2016,0,AUDA,EC104,Makana,Total Indirect Operating Expenditure,Eastern Cape,24.3341432,24.3341432
-2016,471524223,AUDA,EC104,Makana,Total Operating Expenditure,Eastern Cape,,
+2016,471524223,AUDA,EC104,Makana,Total Operating Expenditure,Eastern Cape,24.371068,24.371068
 2016,-69416386,AUDA,EC104,Makana,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Eastern Cape,24.3341432,24.3341432
-2016,330554215,AUDA,EC105,Ndlambe,Total Operating Revenue Generated,Eastern Cape,,
+2016,330554215,AUDA,EC105,Ndlambe,Total Operating Revenue Generated,Eastern Cape,24.371068,24.371068
 2016,311760134,AUDA,EC105,Ndlambe,Total Direct Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2016,0,AUDA,EC105,Ndlambe,Total Indirect Operating Revenue,Eastern Cape,,
+2016,0,AUDA,EC105,Ndlambe,Total Indirect Operating Revenue,Eastern Cape,24.371068,24.371068
 2016,311760134,AUDA,EC105,Ndlambe,Total Operating Revenue,Eastern Cape,24.3341432,24.3341432
-2016,321899808,AUDA,EC105,Ndlambe,Total Direct Operating Expenditure,Eastern Cape,,
+2016,321899808,AUDA,EC105,Ndlambe,Total Direct Operating Expenditure,Eastern Cape,24.371068,24.371068
 2016,0,AUDA,EC105,Ndlambe,Total Indirect Operating Expenditure,Eastern Cape,24.3341432,24.3341432
-2016,321899808,AUDA,EC105,Ndlambe,Total Operating Expenditure,Eastern Cape,,
+2016,321899808,AUDA,EC105,Ndlambe,Total Operating Expenditure,Eastern Cape,24.371068,24.371068
 2016,-10139674,AUDA,EC105,Ndlambe,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Eastern Cape,24.3341432,24.3341432
 2016,186588053,AUDA,EC106,Sundays River Valley,Total Operating Revenue Generated,Eastern Cape,25.4733554,25.4733554
 2016,186588053,AUDA,EC106,Sundays River Valley,Total Direct Operating Revenue,Eastern Cape,25.4733554,25.4733554
@@ -8079,14 +8079,14 @@
 2016,0,AUDA,NC074,Kareeberg,Total Indirect Operating Expenditure,Northern Cape,20.902977,20.902977
 2016,53458239,AUDA,NC074,Kareeberg,Total Operating Expenditure,Northern Cape,20.902977,20.902977
 2016,4799268,AUDA,NC074,Kareeberg,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,20.902977,20.902977
-2016,158384773,AUDA,NC078,Siyancuma,Total Operating Revenue Generated,Northern Cape,,
-2016,145655430,AUDA,NC078,Siyancuma,Total Direct Operating Revenue,Northern Cape,,
-2016,2025991,AUDA,NC078,Siyancuma,Total Indirect Operating Revenue,Northern Cape,,
-2016,147681421,AUDA,NC078,Siyancuma,Total Operating Revenue,Northern Cape,,
-2016,154298978,AUDA,NC078,Siyancuma,Total Direct Operating Expenditure,Northern Cape,,
-2016,2025993,AUDA,NC078,Siyancuma,Total Indirect Operating Expenditure,Northern Cape,,
-2016,156324971,AUDA,NC078,Siyancuma,Total Operating Expenditure,Northern Cape,,
-2016,-8643550,AUDA,NC078,Siyancuma,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,,
+2016,158384773,AUDA,NC078,Siyancuma,Total Operating Revenue Generated,Northern Cape,19.237649,19.237649
+2016,145655430,AUDA,NC078,Siyancuma,Total Direct Operating Revenue,Northern Cape,19.237649,19.237649
+2016,2025991,AUDA,NC078,Siyancuma,Total Indirect Operating Revenue,Northern Cape,19.237649,19.237649
+2016,147681421,AUDA,NC078,Siyancuma,Total Operating Revenue,Northern Cape,19.237649,19.237649
+2016,154298978,AUDA,NC078,Siyancuma,Total Direct Operating Expenditure,Northern Cape,19.237649,19.237649
+2016,2025993,AUDA,NC078,Siyancuma,Total Indirect Operating Expenditure,Northern Cape,19.237649,19.237649
+2016,156324971,AUDA,NC078,Siyancuma,Total Operating Expenditure,Northern Cape,19.237649,19.237649
+2016,-8643550,AUDA,NC078,Siyancuma,Operating Surplus / (Deficit) - Total Revenue Less Total Exp,Northern Cape,19.237649,19.237649
 2016,205318878,AUDA,NC082,Kai !Garib,Total Operating Revenue Generated,Northern Cape,23.1918021,23.1918021
 2016,200915955,AUDA,NC082,Kai !Garib,Total Direct Operating Revenue,Northern Cape,23.1918021,23.1918021
 2016,0,AUDA,NC082,Kai !Garib,Total Indirect Operating Revenue,Northern Cape,23.1918021,23.1918021

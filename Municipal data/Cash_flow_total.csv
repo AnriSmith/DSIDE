@@ -87,13 +87,13 @@
 2013,44874543,AUDA,DC6,Namakwa,Total Cash Payments by Type,Northern Cape,19.949686,19.949686
 2013,36281648,AUDA,DC7,Pixley ka Seme,Total Cash Receipts by Source,Northern Cape,23.3823545,23.3823545
 2013,30526025,AUDA,DC7,Pixley ka Seme,Total Cash Payments by Type,Northern Cape,23.3823545,23.3823545
-2013,61653208,AUDA,DC8,Z F Mgcawu,Total Cash Receipts by Source,Northern Cape,,
-2013,59272802,AUDA,DC8,Z F Mgcawu,Total Cash Payments by Type,Northern Cape,,
+2013,61653208,AUDA,DC8,Z F Mgcawu,Total Cash Receipts by Source,Northern Cape,21.246215,21.246215
+2013,59272802,AUDA,DC8,Z F Mgcawu,Total Cash Payments by Type,Northern Cape,21.246215,21.246215
 2013,98572922,AUDA,DC9,Frances Baard,Total Cash Receipts by Source,Northern Cape,24.3341432,24.3341432
 2013,101223190,AUDA,DC9,Frances Baard,Total Cash Payments by Type,Northern Cape,24.3341432,24.3341432
-2013,174767901,AUDA,EC101,Dr Beyers Naude,Total Cash Receipts by Source,Eastern Cape,,
+2013,174767901,AUDA,EC101,Dr Beyers Naude,Total Cash Receipts by Source,Eastern Cape,24.371068,24.371068
 2013,158020838,AUDA,EC101,Dr Beyers Naude,Total Cash Payments by Type,Eastern Cape,24.3341432,24.3341432
-2013,167359606,AUDA,EC102,Blue Crane Route,Total Cash Receipts by Source,Eastern Cape,,
+2013,167359606,AUDA,EC102,Blue Crane Route,Total Cash Receipts by Source,Eastern Cape,24.371068,24.371068
 2013,161004682,AUDA,EC102,Blue Crane Route,Total Cash Payments by Type,Eastern Cape,24.3341432,24.3341432
 2013,37815880,AUDA,EC103,Ikwezi,Total Cash Receipts by Source,Eastern Cape,25.4733554,25.4733554
 2013,37743785,AUDA,EC103,Ikwezi,Total Cash Payments by Type,Eastern Cape,25.4733554,25.4733554
@@ -419,8 +419,8 @@
 2013,48140366,AUDA,NC066,Karoo Hoogland,Total Cash Payments by Type,Northern Cape,19.949686,19.949686
 2013,42662114,AUDA,NC067,Khâi-Ma,Total Cash Receipts by Source,Northern Cape,20.902977,20.902977
 2013,45611086,AUDA,NC067,Khâi-Ma,Total Cash Payments by Type,Northern Cape,20.902977,20.902977
-2013,64380451,AUDA,NC071,Ubuntu,Total Cash Receipts by Source,Northern Cape,,
-2013,65292064,AUDA,NC071,Ubuntu,Total Cash Payments by Type,Northern Cape,,
+2013,64380451,AUDA,NC071,Ubuntu,Total Cash Receipts by Source,Northern Cape,19.237649,19.237649
+2013,65292064,AUDA,NC071,Ubuntu,Total Cash Payments by Type,Northern Cape,19.237649,19.237649
 2013,129449212,AUDA,NC072,Umsobomvu,Total Cash Receipts by Source,Northern Cape,23.1918021,23.1918021
 2013,127034279,AUDA,NC072,Umsobomvu,Total Cash Payments by Type,Northern Cape,23.1918021,23.1918021
 2013,149779187,AUDA,NC073,Emthanjeni,Total Cash Receipts by Source,Northern Cape,24.9991464,24.9991464
@@ -641,13 +641,13 @@
 2014,58041773,AUDA,DC7,Pixley ka Seme,Total Cash Payments by Type,Northern Cape,19.949686,19.949686
 2014,54917633,AUDA,DC8,Z F Mgcawu,Total Cash Receipts by Source,Northern Cape,23.3823545,23.3823545
 2014,56534036,AUDA,DC8,Z F Mgcawu,Total Cash Payments by Type,Northern Cape,23.3823545,23.3823545
-2014,102692539,AUDA,DC9,Frances Baard,Total Cash Receipts by Source,Northern Cape,,
-2014,98322095,AUDA,DC9,Frances Baard,Total Cash Payments by Type,Northern Cape,,
+2014,102692539,AUDA,DC9,Frances Baard,Total Cash Receipts by Source,Northern Cape,21.246215,21.246215
+2014,98322095,AUDA,DC9,Frances Baard,Total Cash Payments by Type,Northern Cape,21.246215,21.246215
 2014,195099495,AUDA,EC101,Dr Beyers Naude,Total Cash Receipts by Source,Northern Cape,24.3341432,24.3341432
 2014,207495487,AUDA,EC101,Dr Beyers Naude,Total Cash Payments by Type,Northern Cape,24.3341432,24.3341432
-2014,167004207,AUDA,EC102,Blue Crane Route,Total Cash Receipts by Source,Eastern Cape,,
+2014,167004207,AUDA,EC102,Blue Crane Route,Total Cash Receipts by Source,Eastern Cape,24.371068,24.371068
 2014,174983435,AUDA,EC102,Blue Crane Route,Total Cash Payments by Type,Eastern Cape,24.3341432,24.3341432
-2014,44393172,AUDA,EC103,Ikwezi,Total Cash Receipts by Source,Eastern Cape,,
+2014,44393172,AUDA,EC103,Ikwezi,Total Cash Receipts by Source,Eastern Cape,24.371068,24.371068
 2014,43846307,AUDA,EC103,Ikwezi,Total Cash Payments by Type,Eastern Cape,24.3341432,24.3341432
 2014,372328658,AUDA,EC104,Makana,Total Cash Receipts by Source,Eastern Cape,25.4733554,25.4733554
 2014,404167624,AUDA,EC104,Makana,Total Cash Payments by Type,Eastern Cape,25.4733554,25.4733554
@@ -973,8 +973,8 @@
 2014,46986458,AUDA,NC066,Karoo Hoogland,Total Cash Payments by Type,Northern Cape,19.949686,19.949686
 2014,51829110,AUDA,NC067,Khâi-Ma,Total Cash Receipts by Source,Northern Cape,20.902977,20.902977
 2014,50413184,AUDA,NC067,Khâi-Ma,Total Cash Payments by Type,Northern Cape,20.902977,20.902977
-2014,71174647,AUDA,NC071,Ubuntu,Total Cash Receipts by Source,Northern Cape,,
-2014,70949807,AUDA,NC071,Ubuntu,Total Cash Payments by Type,Northern Cape,,
+2014,71174647,AUDA,NC071,Ubuntu,Total Cash Receipts by Source,Northern Cape,19.237649,19.237649
+2014,70949807,AUDA,NC071,Ubuntu,Total Cash Payments by Type,Northern Cape,19.237649,19.237649
 2014,129424724,AUDA,NC072,Umsobomvu,Total Cash Receipts by Source,Northern Cape,23.1918021,23.1918021
 2014,143887900,AUDA,NC072,Umsobomvu,Total Cash Payments by Type,Northern Cape,23.1918021,23.1918021
 2014,156972969,AUDA,NC073,Emthanjeni,Total Cash Receipts by Source,Northern Cape,24.9991464,24.9991464
@@ -1193,13 +1193,13 @@
 2015,46099116,AUDA,DC7,Pixley ka Seme,Total Cash Payments by Type,Northern Cape,19.949686,19.949686
 2015,55301663,AUDA,DC8,Z F Mgcawu,Total Cash Receipts by Source,Northern Cape,23.3823545,23.3823545
 2015,58504020,AUDA,DC8,Z F Mgcawu,Total Cash Payments by Type,Northern Cape,23.3823545,23.3823545
-2015,109524087,AUDA,DC9,Frances Baard,Total Cash Receipts by Source,Northern Cape,,
-2015,109975853,AUDA,DC9,Frances Baard,Total Cash Payments by Type,Northern Cape,,
+2015,109524087,AUDA,DC9,Frances Baard,Total Cash Receipts by Source,Northern Cape,21.246215,21.246215
+2015,109975853,AUDA,DC9,Frances Baard,Total Cash Payments by Type,Northern Cape,21.246215,21.246215
 2015,209948999,AUDA,EC101,Dr Beyers Naude,Total Cash Receipts by Source,Northern Cape,24.3341432,24.3341432
 2015,216387513,AUDA,EC101,Dr Beyers Naude,Total Cash Payments by Type,Northern Cape,24.3341432,24.3341432
-2015,183226575,AUDA,EC102,Blue Crane Route,Total Cash Receipts by Source,Eastern Cape,,
+2015,183226575,AUDA,EC102,Blue Crane Route,Total Cash Receipts by Source,Eastern Cape,24.371068,24.371068
 2015,190613623,AUDA,EC102,Blue Crane Route,Total Cash Payments by Type,Eastern Cape,24.3341432,24.3341432
-2015,44902773,AUDA,EC103,Ikwezi,Total Cash Receipts by Source,Eastern Cape,,
+2015,44902773,AUDA,EC103,Ikwezi,Total Cash Receipts by Source,Eastern Cape,24.371068,24.371068
 2015,44572088,AUDA,EC103,Ikwezi,Total Cash Payments by Type,Eastern Cape,24.3341432,24.3341432
 2015,382516129,AUDA,EC104,Makana,Total Cash Receipts by Source,Eastern Cape,25.4733554,25.4733554
 2015,293268216,AUDA,EC104,Makana,Total Cash Payments by Type,Eastern Cape,25.4733554,25.4733554
@@ -1527,8 +1527,8 @@
 2015,48929992,AUDA,NC067,Khâi-Ma,Total Cash Payments by Type,Northern Cape,19.949686,19.949686
 2015,58170146,AUDA,NC071,Ubuntu,Total Cash Receipts by Source,Northern Cape,20.902977,20.902977
 2015,57635453,AUDA,NC071,Ubuntu,Total Cash Payments by Type,Northern Cape,20.902977,20.902977
-2015,131514912,AUDA,NC072,Umsobomvu,Total Cash Receipts by Source,Northern Cape,,
-2015,133013854,AUDA,NC072,Umsobomvu,Total Cash Payments by Type,Northern Cape,,
+2015,131514912,AUDA,NC072,Umsobomvu,Total Cash Receipts by Source,Northern Cape,19.237649,19.237649
+2015,133013854,AUDA,NC072,Umsobomvu,Total Cash Payments by Type,Northern Cape,19.237649,19.237649
 2015,168313789,AUDA,NC073,Emthanjeni,Total Cash Receipts by Source,Northern Cape,23.1918021,23.1918021
 2015,169829286,AUDA,NC073,Emthanjeni,Total Cash Payments by Type,Northern Cape,23.1918021,23.1918021
 2015,56525825,AUDA,NC074,Kareeberg,Total Cash Receipts by Source,Northern Cape,24.9991464,24.9991464
@@ -1747,13 +1747,13 @@
 2016,57924056,AUDA,DC8,Z F Mgcawu,Total Cash Payments by Type,Northern Cape,19.949686,19.949686
 2016,123527045,AUDA,DC9,Frances Baard,Total Cash Receipts by Source,Northern Cape,23.3823545,23.3823545
 2016,141763606,AUDA,DC9,Frances Baard,Total Cash Payments by Type,Northern Cape,23.3823545,23.3823545
-2016,207101797,AUDA,EC101,Dr Beyers Naude,Total Cash Receipts by Source,Northern Cape,,
-2016,226773156,AUDA,EC101,Dr Beyers Naude,Total Cash Payments by Type,Northern Cape,,
+2016,207101797,AUDA,EC101,Dr Beyers Naude,Total Cash Receipts by Source,Northern Cape,21.246215,21.246215
+2016,226773156,AUDA,EC101,Dr Beyers Naude,Total Cash Payments by Type,Northern Cape,21.246215,21.246215
 2016,186480482,AUDA,EC102,Blue Crane Route,Total Cash Receipts by Source,Northern Cape,24.3341432,24.3341432
 2016,183486743,AUDA,EC102,Blue Crane Route,Total Cash Payments by Type,Northern Cape,24.3341432,24.3341432
-2016,391048373,AUDA,EC104,Makana,Total Cash Receipts by Source,Eastern Cape,,
+2016,391048373,AUDA,EC104,Makana,Total Cash Receipts by Source,Eastern Cape,24.371068,24.371068
 2016,407147451,AUDA,EC104,Makana,Total Cash Payments by Type,Eastern Cape,24.3341432,24.3341432
-2016,294582599,AUDA,EC105,Ndlambe,Total Cash Receipts by Source,Eastern Cape,,
+2016,294582599,AUDA,EC105,Ndlambe,Total Cash Receipts by Source,Eastern Cape,24.371068,24.371068
 2016,291947906,AUDA,EC105,Ndlambe,Total Cash Payments by Type,Eastern Cape,24.3341432,24.3341432
 2016,159976230,AUDA,EC106,Sundays River Valley,Total Cash Receipts by Source,Eastern Cape,25.4733554,25.4733554
 2016,175289793,AUDA,EC106,Sundays River Valley,Total Cash Payments by Type,Eastern Cape,25.4733554,25.4733554
@@ -2013,8 +2013,8 @@
 2016,147996002,AUDA,NC072,Umsobomvu,Total Cash Payments by Type,Northern Cape,19.949686,19.949686
 2016,84994630,AUDA,NC074,Kareeberg,Total Cash Receipts by Source,Northern Cape,20.902977,20.902977
 2016,84117426,AUDA,NC074,Kareeberg,Total Cash Payments by Type,Northern Cape,20.902977,20.902977
-2016,157847320,AUDA,NC078,Siyancuma,Total Cash Receipts by Source,Northern Cape,,
-2016,157167563,AUDA,NC078,Siyancuma,Total Cash Payments by Type,Northern Cape,,
+2016,157847320,AUDA,NC078,Siyancuma,Total Cash Receipts by Source,Northern Cape,19.237649,19.237649
+2016,157167563,AUDA,NC078,Siyancuma,Total Cash Payments by Type,Northern Cape,19.237649,19.237649
 2016,42562564,AUDA,NC084,!Kheis,Total Cash Receipts by Source,Northern Cape,23.1918021,23.1918021
 2016,42582286,AUDA,NC084,!Kheis,Total Cash Payments by Type,Northern Cape,23.1918021,23.1918021
 2016,121682908,AUDA,NC085,Tsantsabane,Total Cash Receipts by Source,Northern Cape,24.9991464,24.9991464

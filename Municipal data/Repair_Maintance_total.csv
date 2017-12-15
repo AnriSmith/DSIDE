@@ -43,9 +43,9 @@
 2013,0.0,AUDA,DC5,Central Karoo,Total Repairs and Maintenance Expenditure,Western Cape,22.2384017,22.2384017
 2013,0.0,AUDA,DC6,Namakwa,Total Repairs and Maintenance Expenditure,Northern Cape,19.949686,19.949686
 2013,0.0,AUDA,DC7,Pixley ka Seme,Total Repairs and Maintenance Expenditure,Northern Cape,23.3823545,23.3823545
-2013,0.0,AUDA,DC8,Z F Mgcawu,Total Repairs and Maintenance Expenditure,Northern Cape,,
+2013,0.0,AUDA,DC8,Z F Mgcawu,Total Repairs and Maintenance Expenditure,Northern Cape,21.246215,21.246215
 2013,2569405.0,AUDA,DC9,Frances Baard,Total Repairs and Maintenance Expenditure,Northern Cape,24.3341432,24.3341432
-2013,0.0,AUDA,EC101,Dr Beyers Naude,Total Repairs and Maintenance Expenditure,Eastern Cape,,
+2013,0.0,AUDA,EC101,Dr Beyers Naude,Total Repairs and Maintenance Expenditure,Eastern Cape,24.371068,24.371068
 2013,3146659.0,AUDA,EC102,Blue Crane Route,Total Repairs and Maintenance Expenditure,Eastern Cape,24.3341432,24.3341432
 2013,1597547.0,AUDA,EC103,Ikwezi,Total Repairs and Maintenance Expenditure,Eastern Cape,25.4733554,25.4733554
 2013,18721399.0,AUDA,EC104,Makana,Total Repairs and Maintenance Expenditure,Eastern Cape,24.6192899,24.6192899
@@ -71,7 +71,7 @@
 2013,5273126.0,AUDA,EC137,Engcobo,Total Repairs and Maintenance Expenditure,Eastern Cape,29.2553229,29.2553229
 2013,0.0,AUDA,EC138,Sakhisizwe,Total Repairs and Maintenance Expenditure,Eastern Cape,27.9834738,27.9834738
 2013,17032314.0,AUDA,EC139,Enoch Mgijima,Total Repairs and Maintenance Expenditure,Eastern Cape,27.8311428,27.8311428
-2013,0.0,AUDA,EC141,Elundini,Total Repairs and Maintenance Expenditure,Eastern Cape,,
+2013,0.0,AUDA,EC141,Elundini,Total Repairs and Maintenance Expenditure,Eastern Cape,26.085158,26.085158
 2013,0.0,AUDA,EC142,Senqu,Total Repairs and Maintenance Expenditure,Eastern Cape,28.3929417,28.3929417
 2013,6687900.0,AUDA,EC143,Maletswai,Total Repairs and Maintenance Expenditure,Eastern Cape,27.6434844,27.6434844
 2013,0.0,AUDA,EC144,Gariep,Total Repairs and Maintenance Expenditure,Eastern Cape,26.8910342,26.8910342
@@ -135,7 +135,7 @@
 2013,26839092.0,AUDA,KZN236,Imbabazane,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.0202964,30.0202964
 2013,0.0,AUDA,KZN237,Inkosi Langalibalele,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,29.3250347,29.3250347
 2013,0.0,AUDA,KZN238,Alfred Duma,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,29.6864574,29.6864574
-2013,0.0,AUDA,KZN241,Endumeni,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,,
+2013,0.0,AUDA,KZN241,Endumeni,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.044866,30.044866
 2013,1577120.0,AUDA,KZN242,Nqutu,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,36.5552171,36.5552171
 2013,7151318.0,AUDA,KZN244,Msinga,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.2343393,30.2343393
 2013,6618835.0,AUDA,KZN245,Umvoti,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.6746303,30.6746303
@@ -154,7 +154,7 @@
 2013,2040579.0,AUDA,KZN275,Mtubatuba,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.3107517,32.3107517
 2013,0.0,AUDA,KZN276,Big Five Hlabisa,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,31.8648002,31.8648002
 2013,3072000.0,AUDA,KZN281,Mfolozi,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.2880726,32.2880726
-2013,14606687.0,AUDA,KZN282,uMhlathuze,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,,
+2013,14606687.0,AUDA,KZN282,uMhlathuze,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.279972,32.279972
 2013,0.0,AUDA,KZN283,Ntambanana,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.259717,32.259717
 2013,10013279.0,AUDA,KZN284,uMlalazi,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,31.947311,31.947311
 2013,2191735.0,AUDA,KZN285,Mthonjaneni,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,31.7394939,31.7394939
@@ -223,7 +223,7 @@
 2013,2907715.0,AUDA,NC065,Hantam,Total Repairs and Maintenance Expenditure,Northern Cape,17.8583868,17.8583868
 2013,1603991.0,AUDA,NC066,Karoo Hoogland,Total Repairs and Maintenance Expenditure,Northern Cape,19.949686,19.949686
 2013,0.0,AUDA,NC067,Khâi-Ma,Total Repairs and Maintenance Expenditure,Northern Cape,20.902977,20.902977
-2013,0.0,AUDA,NC071,Ubuntu,Total Repairs and Maintenance Expenditure,Northern Cape,,
+2013,0.0,AUDA,NC071,Ubuntu,Total Repairs and Maintenance Expenditure,Northern Cape,19.237649,19.237649
 2013,2108005.0,AUDA,NC072,Umsobomvu,Total Repairs and Maintenance Expenditure,Northern Cape,23.1918021,23.1918021
 2013,8470541.0,AUDA,NC073,Emthanjeni,Total Repairs and Maintenance Expenditure,Northern Cape,24.9991464,24.9991464
 2013,734387.0,AUDA,NC074,Kareeberg,Total Repairs and Maintenance Expenditure,Northern Cape,24.0087533,24.0087533
@@ -335,9 +335,9 @@
 2014,0.0,AUDA,DC6,Namakwa,Total Repairs and Maintenance Expenditure,Western Cape,22.2384017,22.2384017
 2014,0.0,AUDA,DC7,Pixley ka Seme,Total Repairs and Maintenance Expenditure,Northern Cape,19.949686,19.949686
 2014,0.0,AUDA,DC8,Z F Mgcawu,Total Repairs and Maintenance Expenditure,Northern Cape,23.3823545,23.3823545
-2014,0.0,AUDA,DC9,Frances Baard,Total Repairs and Maintenance Expenditure,Northern Cape,,
+2014,0.0,AUDA,DC9,Frances Baard,Total Repairs and Maintenance Expenditure,Northern Cape,21.246215,21.246215
 2014,0.0,AUDA,EC101,Dr Beyers Naude,Total Repairs and Maintenance Expenditure,Northern Cape,24.3341432,24.3341432
-2014,0.0,AUDA,EC102,Blue Crane Route,Total Repairs and Maintenance Expenditure,Eastern Cape,,
+2014,0.0,AUDA,EC102,Blue Crane Route,Total Repairs and Maintenance Expenditure,Eastern Cape,24.371068,24.371068
 2014,1932029.0,AUDA,EC103,Ikwezi,Total Repairs and Maintenance Expenditure,Eastern Cape,24.3341432,24.3341432
 2014,12776976.0,AUDA,EC104,Makana,Total Repairs and Maintenance Expenditure,Eastern Cape,25.4733554,25.4733554
 2014,0.0,AUDA,EC105,Ndlambe,Total Repairs and Maintenance Expenditure,Eastern Cape,24.6192899,24.6192899
@@ -363,7 +363,7 @@
 2014,0.0,AUDA,EC138,Sakhisizwe,Total Repairs and Maintenance Expenditure,Eastern Cape,29.2553229,29.2553229
 2014,3709847.0,AUDA,EC139,Enoch Mgijima,Total Repairs and Maintenance Expenditure,Eastern Cape,27.9834738,27.9834738
 2014,0.0,AUDA,EC141,Elundini,Total Repairs and Maintenance Expenditure,Eastern Cape,27.8311428,27.8311428
-2014,0.0,AUDA,EC142,Senqu,Total Repairs and Maintenance Expenditure,Eastern Cape,,
+2014,0.0,AUDA,EC142,Senqu,Total Repairs and Maintenance Expenditure,Eastern Cape,26.085158,26.085158
 2014,0.0,AUDA,EC143,Maletswai,Total Repairs and Maintenance Expenditure,Eastern Cape,28.3929417,28.3929417
 2014,0.0,AUDA,EC144,Gariep,Total Repairs and Maintenance Expenditure,Eastern Cape,27.6434844,27.6434844
 2014,0.0,AUDA,EC145,Walter Sisulu,Total Repairs and Maintenance Expenditure,Eastern Cape,26.8910342,26.8910342
@@ -427,7 +427,7 @@
 2014,0.0,AUDA,KZN237,Inkosi Langalibalele,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.0202964,30.0202964
 2014,0.0,AUDA,KZN238,Alfred Duma,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,29.3250347,29.3250347
 2014,0.0,AUDA,KZN241,Endumeni,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,29.6864574,29.6864574
-2014,0.0,AUDA,KZN242,Nqutu,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,,
+2014,0.0,AUDA,KZN242,Nqutu,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.044866,30.044866
 2014,7455922.0,AUDA,KZN244,Msinga,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,36.5552171,36.5552171
 2014,6230522.0,AUDA,KZN245,Umvoti,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.2343393,30.2343393
 2014,0.0,AUDA,KZN252,Newcastle,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.6746303,30.6746303
@@ -446,7 +446,7 @@
 2014,0.0,AUDA,KZN276,Big Five Hlabisa,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.3107517,32.3107517
 2014,2445773.0,AUDA,KZN281,Mfolozi,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,31.8648002,31.8648002
 2014,0.0,AUDA,KZN282,uMhlathuze,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.2880726,32.2880726
-2014,0.0,AUDA,KZN283,Ntambanana,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,,
+2014,0.0,AUDA,KZN283,Ntambanana,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.279972,32.279972
 2014,0.0,AUDA,KZN284,uMlalazi,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.259717,32.259717
 2014,0.0,AUDA,KZN285,Mthonjaneni,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,31.947311,31.947311
 2014,0.0,AUDA,KZN286,Nkandla,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,31.7394939,31.7394939
@@ -515,7 +515,7 @@
 2014,0.0,AUDA,NC066,Karoo Hoogland,Total Repairs and Maintenance Expenditure,Northern Cape,17.8583868,17.8583868
 2014,0.0,AUDA,NC067,Khâi-Ma,Total Repairs and Maintenance Expenditure,Northern Cape,19.949686,19.949686
 2014,0.0,AUDA,NC071,Ubuntu,Total Repairs and Maintenance Expenditure,Northern Cape,20.902977,20.902977
-2014,0.0,AUDA,NC072,Umsobomvu,Total Repairs and Maintenance Expenditure,Northern Cape,,
+2014,0.0,AUDA,NC072,Umsobomvu,Total Repairs and Maintenance Expenditure,Northern Cape,19.237649,19.237649
 2014,11610873.0,AUDA,NC073,Emthanjeni,Total Repairs and Maintenance Expenditure,Northern Cape,23.1918021,23.1918021
 2014,0.0,AUDA,NC074,Kareeberg,Total Repairs and Maintenance Expenditure,Northern Cape,24.9991464,24.9991464
 2014,0.0,AUDA,NC075,Renosterberg,Total Repairs and Maintenance Expenditure,Northern Cape,24.0087533,24.0087533
@@ -628,9 +628,9 @@
 2015,0.0,AUDA,DC7,Pixley ka Seme,Total Repairs and Maintenance Expenditure,Western Cape,22.2384017,22.2384017
 2015,0.0,AUDA,DC8,Z F Mgcawu,Total Repairs and Maintenance Expenditure,Northern Cape,19.949686,19.949686
 2015,0.0,AUDA,DC9,Frances Baard,Total Repairs and Maintenance Expenditure,Northern Cape,23.3823545,23.3823545
-2015,0.0,AUDA,EC101,Dr Beyers Naude,Total Repairs and Maintenance Expenditure,Northern Cape,,
+2015,0.0,AUDA,EC101,Dr Beyers Naude,Total Repairs and Maintenance Expenditure,Northern Cape,21.246215,21.246215
 2015,0.0,AUDA,EC102,Blue Crane Route,Total Repairs and Maintenance Expenditure,Northern Cape,24.3341432,24.3341432
-2015,555163.0,AUDA,EC103,Ikwezi,Total Repairs and Maintenance Expenditure,Eastern Cape,,
+2015,555163.0,AUDA,EC103,Ikwezi,Total Repairs and Maintenance Expenditure,Eastern Cape,24.371068,24.371068
 2015,10136456.0,AUDA,EC104,Makana,Total Repairs and Maintenance Expenditure,Eastern Cape,24.3341432,24.3341432
 2015,0.0,AUDA,EC105,Ndlambe,Total Repairs and Maintenance Expenditure,Eastern Cape,25.4733554,25.4733554
 2015,0.0,AUDA,EC106,Sundays River Valley,Total Repairs and Maintenance Expenditure,Eastern Cape,24.6192899,24.6192899
@@ -655,7 +655,7 @@
 2015,14098630.0,AUDA,EC139,Enoch Mgijima,Total Repairs and Maintenance Expenditure,Eastern Cape,29.2553229,29.2553229
 2015,0.0,AUDA,EC141,Elundini,Total Repairs and Maintenance Expenditure,Eastern Cape,27.9834738,27.9834738
 2015,375273.0,AUDA,EC142,Senqu,Total Repairs and Maintenance Expenditure,Eastern Cape,27.8311428,27.8311428
-2015,0.0,AUDA,EC143,Maletswai,Total Repairs and Maintenance Expenditure,Eastern Cape,,
+2015,0.0,AUDA,EC143,Maletswai,Total Repairs and Maintenance Expenditure,Eastern Cape,26.085158,26.085158
 2015,0.0,AUDA,EC144,Gariep,Total Repairs and Maintenance Expenditure,Eastern Cape,28.3929417,28.3929417
 2015,0.0,AUDA,EC145,Walter Sisulu,Total Repairs and Maintenance Expenditure,Eastern Cape,27.6434844,27.6434844
 2015,0.0,AUDA,EC153,Ngquza Hill,Total Repairs and Maintenance Expenditure,Eastern Cape,26.8910342,26.8910342
@@ -718,7 +718,7 @@
 2015,0.0,AUDA,KZN238,Alfred Duma,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.107222,30.107222
 2015,0.0,AUDA,KZN241,Endumeni,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.0202964,30.0202964
 2015,0.0,AUDA,KZN242,Nqutu,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,29.3250347,29.3250347
-2015,13970259.0,AUDA,KZN244,Msinga,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,,
+2015,13970259.0,AUDA,KZN244,Msinga,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.044866,30.044866
 2015,9454597.0,AUDA,KZN245,Umvoti,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,36.5552171,36.5552171
 2015,0.0,AUDA,KZN252,Newcastle,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.2343393,30.2343393
 2015,1793302.0,AUDA,KZN253,Emadlangeni,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.6746303,30.6746303
@@ -737,7 +737,7 @@
 2015,1190360.0,AUDA,KZN281,Mfolozi,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.3107517,32.3107517
 2015,0.0,AUDA,KZN282,uMhlathuze,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,31.8648002,31.8648002
 2015,0.0,AUDA,KZN283,Ntambanana,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.2880726,32.2880726
-2015,0.0,AUDA,KZN284,uMlalazi,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,,
+2015,0.0,AUDA,KZN284,uMlalazi,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.279972,32.279972
 2015,0.0,AUDA,KZN285,Mthonjaneni,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.259717,32.259717
 2015,0.0,AUDA,KZN286,Nkandla,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,31.947311,31.947311
 2015,0.0,AUDA,KZN291,Mandeni,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,31.7394939,31.7394939
@@ -806,7 +806,7 @@
 2015,0.0,AUDA,NC067,Khâi-Ma,Total Repairs and Maintenance Expenditure,Northern Cape,17.8583868,17.8583868
 2015,0.0,AUDA,NC071,Ubuntu,Total Repairs and Maintenance Expenditure,Northern Cape,19.949686,19.949686
 2015,0.0,AUDA,NC072,Umsobomvu,Total Repairs and Maintenance Expenditure,Northern Cape,20.902977,20.902977
-2015,11214814.0,AUDA,NC073,Emthanjeni,Total Repairs and Maintenance Expenditure,Northern Cape,,
+2015,11214814.0,AUDA,NC073,Emthanjeni,Total Repairs and Maintenance Expenditure,Northern Cape,19.237649,19.237649
 2015,0.0,AUDA,NC074,Kareeberg,Total Repairs and Maintenance Expenditure,Northern Cape,23.1918021,23.1918021
 2015,0.0,AUDA,NC075,Renosterberg,Total Repairs and Maintenance Expenditure,Northern Cape,24.9991464,24.9991464
 2015,1191139.0,AUDA,NC076,Thembelihle,Total Repairs and Maintenance Expenditure,Northern Cape,24.0087533,24.0087533
@@ -915,9 +915,9 @@
 2016,0.0,AUDA,DC8,Z F Mgcawu,Total Repairs and Maintenance Expenditure,Western Cape,22.2384017,22.2384017
 2016,0.0,AUDA,DC9,Frances Baard,Total Repairs and Maintenance Expenditure,Northern Cape,19.949686,19.949686
 2016,0.0,AUDA,EC101,Dr Beyers Naude,Total Repairs and Maintenance Expenditure,Northern Cape,23.3823545,23.3823545
-2016,0.0,AUDA,EC102,Blue Crane Route,Total Repairs and Maintenance Expenditure,Northern Cape,,
+2016,0.0,AUDA,EC102,Blue Crane Route,Total Repairs and Maintenance Expenditure,Northern Cape,21.246215,21.246215
 2016,23657300.0,AUDA,EC104,Makana,Total Repairs and Maintenance Expenditure,Northern Cape,24.3341432,24.3341432
-2016,0.0,AUDA,EC105,Ndlambe,Total Repairs and Maintenance Expenditure,Eastern Cape,,
+2016,0.0,AUDA,EC105,Ndlambe,Total Repairs and Maintenance Expenditure,Eastern Cape,24.371068,24.371068
 2016,0.0,AUDA,EC106,Sundays River Valley,Total Repairs and Maintenance Expenditure,Eastern Cape,24.3341432,24.3341432
 2016,0.0,AUDA,EC108,Kouga,Total Repairs and Maintenance Expenditure,Eastern Cape,25.4733554,25.4733554
 2016,0.0,AUDA,EC109,Kou-Kamma,Total Repairs and Maintenance Expenditure,Eastern Cape,26.3249438,26.3249438
@@ -935,7 +935,7 @@
 2016,0.0,AUDA,EC141,Elundini,Total Repairs and Maintenance Expenditure,Eastern Cape,29.2553229,29.2553229
 2016,0.0,AUDA,EC142,Senqu,Total Repairs and Maintenance Expenditure,Eastern Cape,27.9834738,27.9834738
 2016,0.0,AUDA,EC145,Walter Sisulu,Total Repairs and Maintenance Expenditure,Eastern Cape,27.8311428,27.8311428
-2016,0.0,AUDA,EC153,Ngquza Hill,Total Repairs and Maintenance Expenditure,Eastern Cape,,
+2016,0.0,AUDA,EC153,Ngquza Hill,Total Repairs and Maintenance Expenditure,Eastern Cape,26.085158,26.085158
 2016,2159876.0,AUDA,EC154,Port St Johns,Total Repairs and Maintenance Expenditure,Eastern Cape,28.3929417,28.3929417
 2016,4964487.0,AUDA,EC155,Nyandeni,Total Repairs and Maintenance Expenditure,Eastern Cape,27.6434844,27.6434844
 2016,0.0,AUDA,EC156,Mhlontlo,Total Repairs and Maintenance Expenditure,Eastern Cape,26.32916,26.32916
@@ -988,7 +988,7 @@
 2016,0.0,AUDA,KZN241,Endumeni,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.5739579,30.5739579
 2016,0.0,AUDA,KZN242,Nqutu,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.2974199,30.2974199
 2016,12877000.0,AUDA,KZN245,Umvoti,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,29.3250347,29.3250347
-2016,0.0,AUDA,KZN252,Newcastle,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,,
+2016,0.0,AUDA,KZN252,Newcastle,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.044866,30.044866
 2016,5685969.0,AUDA,KZN253,Emadlangeni,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,36.5552171,36.5552171
 2016,0.0,AUDA,KZN254,Dannhauser,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.2343393,30.2343393
 2016,0.0,AUDA,KZN261,eDumbe,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,30.6746303,30.6746303
@@ -1003,7 +1003,7 @@
 2016,0.0,AUDA,KZN282,uMhlathuze,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.4467238,32.4467238
 2016,0.0,AUDA,KZN284,uMlalazi,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.0650697,32.0650697
 2016,0.0,AUDA,KZN285,Mthonjaneni,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.2880726,32.2880726
-2016,0.0,AUDA,KZN286,Nkandla,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,,
+2016,0.0,AUDA,KZN286,Nkandla,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.279972,32.279972
 2016,0.0,AUDA,KZN291,Mandeni,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,32.259717,32.259717
 2016,0.0,AUDA,KZN292,KwaDukuza,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,31.947311,31.947311
 2016,0.0,AUDA,KZN293,Ndwedwe,Total Repairs and Maintenance Expenditure,KwaZulu-Natal,31.4913182,31.4913182
@@ -1062,7 +1062,7 @@
 2016,0.0,AUDA,NC072,Umsobomvu,Total Repairs and Maintenance Expenditure,Northern Cape,17.8583868,17.8583868
 2016,0.0,AUDA,NC074,Kareeberg,Total Repairs and Maintenance Expenditure,Northern Cape,19.949686,19.949686
 2016,505963.0,AUDA,NC076,Thembelihle,Total Repairs and Maintenance Expenditure,Northern Cape,20.902977,20.902977
-2016,0.0,AUDA,NC078,Siyancuma,Total Repairs and Maintenance Expenditure,Northern Cape,,
+2016,0.0,AUDA,NC078,Siyancuma,Total Repairs and Maintenance Expenditure,Northern Cape,19.237649,19.237649
 2016,0.0,AUDA,NC082,Kai !Garib,Total Repairs and Maintenance Expenditure,Northern Cape,23.1918021,23.1918021
 2016,0.0,AUDA,NC084,!Kheis,Total Repairs and Maintenance Expenditure,Northern Cape,24.9991464,24.9991464
 2016,0.0,AUDA,NC085,Tsantsabane,Total Repairs and Maintenance Expenditure,Northern Cape,22.047637,22.047637

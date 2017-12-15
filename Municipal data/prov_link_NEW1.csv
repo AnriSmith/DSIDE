@@ -49,7 +49,7 @@
 47,West Coast District Municipality,DC1,Western Cape,-32.2129777,18.6175626
 48,West Rand District Municipality,DC48,Gauteng,-26.3213939,27.4556388
 49,Xhariep District Municipality,DC16,Free State,-29.4599915,25.2837585
-50,ZF Mgcawu District Municipality,DC8,Northern Cape,,
+50,ZF Mgcawu District Municipality,DC8,Northern Cape,-28.455683,21.246215
 51,Zululand District Municipality,DC26,KwaZulu-Natal,-27.8872252,31.4456179
 52,Abaqulusi Local Municipality,KZN263,KwaZulu-Natal,-27.74898,30.9876321
 53,Albert Luthuli Local Municipality,MP301,Mpumalanga,-26.0531938,30.3325113
@@ -59,7 +59,7 @@
 57,Beaufort West Local Municipality,WC053,Western Cape,-32.5353267,22.8105512
 58,Bela-Bela Local Municipality,LIM366,Limpopo,-24.8969534,28.2526623
 59,Bergrivier Local Municipality,WC013,Western Cape,-32.8096696,18.7125791
-60,Big Five Hlabisa Local Municipality,KZN276,KwaZulu-Natal,,
+60,Big Five Hlabisa Local Municipality,KZN276,KwaZulu-Natal,-27.894071,32.279972
 61,Bitou Local Municipality,WC047,Western Cape,-33.9021615,23.429984
 62,Blouberg Local Municipality,LIM351,Limpopo,-23.1424074,28.9950702
 63,Blue Crane Route Local Municipality,EC102,Eastern Cape,-33.0113694,25.4733554
@@ -75,7 +75,7 @@
 73,Dikgatlong Local Municipality,NC092,Northern Cape,-28.5367509,24.5197
 74,Dipaleseng Local Municipality,MP306,Mpumalanga,-26.7747265,28.5797981
 75,Ditsobotla Local Municipality,NW384,North West,-26.0613801,26.1359431
-76,Dr Beyers Naud̩ Local Municipality,EC101,Eastern Cape,,
+76,Dr Beyers Naud̩ Local Municipality,EC101,Eastern Cape,-32.206129,24.371068
 77,Dr JS Moroka Local Municipality,MP316,Mpumalanga,-25.040412,28.8130675
 78,Dr Nkosazana Dlamini Zuma Local Municipality,KZN436,KwaZulu-Natal,-30.0304668,29.8351232
 79,Drakenstein Local Municipality,WC023,Western Cape,-33.5808997,19.04532
@@ -90,7 +90,7 @@
 88,Emthanjeni Local Municipality,NC073,Northern Cape,-30.6550795,24.0087533
 89,Endumeni Local Municipality,KZN241,KwaZulu-Natal,-28.1649681,30.2343393
 90,Engcobo Local Municipality,EC137,Eastern Cape,-31.6727543,27.9834738
-91,Enoch Mgijima Local Municipality,EC139,Eastern Cape,,
+91,Enoch Mgijima Local Municipality,EC139,Eastern Cape,-31.768433,26.085158
 92,Ephraim Mogale Local Municipality,LIM471,Limpopo,-24.8883299,29.3250347
 93,Fetakgomo/Greater Tubatse Local Municipality,LIM476,Limpopo,-24.3909787,29.8352303
 94,Ga-Segonyana Local Municipality,NC452,Northern Cape,-27.6136831,23.4776098
@@ -107,7 +107,7 @@
 105,Hessequa Local Municipality,WC042,Western Cape,-34.1168758,21.1891151
 106,Impendle Local Municipality,KZN224,KwaZulu-Natal,-29.5943777,29.8352303
 107,Ingquza Hill Local Municipality,EC153,Eastern Cape,-31.2632292,29.6962677
-108,Inkosi Langalibalele Local Municipality,KZN237,KwaZulu-Natal,,
+108,Inkosi Langalibalele Local Municipality,KZN237,KwaZulu-Natal,-28.803461,30.044866
 109,Intsika Yethu Local Municipality,EC135,Eastern Cape,-31.9314924,27.6434844
 110,Inxuba Yethemba Local Municipality,EC131,Eastern Cape,-31.9317034,25.3785719
 111,JB Marks Local Municipality,NW405,North West,-26.9059725,26.5977699
@@ -121,7 +121,7 @@
 119,Karoo Hoogland Local Municipality,NC066,Northern Cape,-31.8437886,20.902977
 120,Kgatelopele Local Municipality,NC086,Northern Cape,-28.2854106,23.6680747
 121,Kgetlengrivier Local Municipality,NW374,North West,-25.738224,26.8910342
-122,Kh̢i-Ma Local Municipality,NC067,Northern Cape,,
+122,Khai-Ma Local Municipality,NC067,Northern Cape,-29.137567,19.237649
 123,!Kheis Local Municipality,NC084,Northern Cape,-28.9018506,21.6660725
 124,King Sabata Dalindyebo Local Municipality,EC157,Eastern Cape,-31.7073986,28.5797981
 125,Knysna Local Municipality,WC048,Western Cape,-34.037582,23.049842

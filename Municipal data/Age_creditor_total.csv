@@ -38,7 +38,7 @@
 2013,AUDA,DC5,Central Karoo,Total,5002073,Western Cape,22.2384017,22.2384017
 2013,AUDA,DC7,Pixley ka Seme,Total,13703333,Northern Cape,23.3823545,23.3823545
 2013,AUDA,DC9,Frances Baard,Total,4171424,Northern Cape,24.3341432,24.3341432
-2013,AUDA,EC101,Dr Beyers Naude,Total,7116563,Eastern Cape,,
+2013,AUDA,EC101,Dr Beyers Naude,Total,7116563,Eastern Cape,24.371068,24.371068
 2013,AUDA,EC102,Blue Crane Route,Total,16748460,Eastern Cape,24.3341432,24.3341432
 2013,AUDA,EC103,Ikwezi,Total,4879313,Eastern Cape,25.4733554,25.4733554
 2013,AUDA,EC104,Makana,Total,28643751,Eastern Cape,24.6192899,24.6192899
@@ -177,7 +177,7 @@
 2013,AUDA,NC065,Hantam,Total,2411713,Northern Cape,17.8583868,17.8583868
 2013,AUDA,NC066,Karoo Hoogland,Total,10540074,Northern Cape,19.949686,19.949686
 2013,AUDA,NC067,Khâi-Ma,Total,7338292,Northern Cape,20.902977,20.902977
-2013,AUDA,NC071,Ubuntu,Total,3409319,Northern Cape,,
+2013,AUDA,NC071,Ubuntu,Total,3409319,Northern Cape,19.237649,19.237649
 2013,AUDA,NC072,Umsobomvu,Total,18110353,Northern Cape,23.1918021,23.1918021
 2013,AUDA,NC073,Emthanjeni,Total,12348959,Northern Cape,24.9991464,24.9991464
 2013,AUDA,NC074,Kareeberg,Total,0,Northern Cape,24.0087533,24.0087533
@@ -270,9 +270,9 @@
 2014,AUDA,DC6,Namakwa,Total,2825423,Western Cape,22.2384017,22.2384017
 2014,AUDA,DC7,Pixley ka Seme,Total,7462052,Northern Cape,19.949686,19.949686
 2014,AUDA,DC8,Z F Mgcawu,Total,4968647,Northern Cape,23.3823545,23.3823545
-2014,AUDA,DC9,Frances Baard,Total,6219361,Northern Cape,,
+2014,AUDA,DC9,Frances Baard,Total,6219361,Northern Cape,21.246215,21.246215
 2014,AUDA,EC101,Dr Beyers Naude,Total,2551182,Northern Cape,24.3341432,24.3341432
-2014,AUDA,EC102,Blue Crane Route,Total,26746826,Eastern Cape,,
+2014,AUDA,EC102,Blue Crane Route,Total,26746826,Eastern Cape,24.371068,24.371068
 2014,AUDA,EC103,Ikwezi,Total,19397932,Eastern Cape,24.3341432,24.3341432
 2014,AUDA,EC104,Makana,Total,0,Eastern Cape,25.4733554,25.4733554
 2014,AUDA,EC105,Ndlambe,Total,136896404,Eastern Cape,24.6192899,24.6192899
@@ -506,9 +506,9 @@
 2015,AUDA,DC7,Pixley ka Seme,Total,6572319,Western Cape,22.2384017,22.2384017
 2015,AUDA,DC8,Z F Mgcawu,Total,2694414,Northern Cape,19.949686,19.949686
 2015,AUDA,DC9,Frances Baard,Total,11712931,Northern Cape,23.3823545,23.3823545
-2015,AUDA,EC101,Dr Beyers Naude,Total,14415760,Northern Cape,,
+2015,AUDA,EC101,Dr Beyers Naude,Total,14415760,Northern Cape,21.246215,21.246215
 2015,AUDA,EC102,Blue Crane Route,Total,13349853,Northern Cape,24.3341432,24.3341432
-2015,AUDA,EC104,Makana,Total,134972225,Eastern Cape,,
+2015,AUDA,EC104,Makana,Total,134972225,Eastern Cape,24.371068,24.371068
 2015,AUDA,EC105,Ndlambe,Total,141266870,Eastern Cape,24.3341432,24.3341432
 2015,AUDA,EC106,Sundays River Valley,Total,27618427,Eastern Cape,25.4733554,25.4733554
 2015,AUDA,EC107,Baviaans,Total,24243566,Eastern Cape,26.3249438,26.3249438
@@ -659,7 +659,7 @@
 2015,AUDA,NC067,Khâi-Ma,Total,12520833,Northern Cape,17.8583868,17.8583868
 2015,AUDA,NC071,Ubuntu,Total,18136681,Northern Cape,19.949686,19.949686
 2015,AUDA,NC072,Umsobomvu,Total,21930343,Northern Cape,20.902977,20.902977
-2015,AUDA,NC073,Emthanjeni,Total,20842446,Northern Cape,,
+2015,AUDA,NC073,Emthanjeni,Total,20842446,Northern Cape,19.237649,19.237649
 2015,AUDA,NC074,Kareeberg,Total,0,Northern Cape,23.1918021,23.1918021
 2015,AUDA,NC075,Renosterberg,Total,34186526,Northern Cape,24.9991464,24.9991464
 2015,AUDA,NC076,Thembelihle,Total,28181746,Northern Cape,24.0087533,24.0087533
@@ -801,13 +801,13 @@
 2016,AUDA,DC8,Z F Mgcawu,Total By Income Source,1448747,Northern Cape,19.949686,19.949686
 2016,AUDA,DC8,Z F Mgcawu,Total By Customer Group,1448747,Northern Cape,23.3823545,23.3823545
 2016,AUDA,DC9,Frances Baard,Total By Income Source,7151781,Northern Cape,23.3823545,23.3823545
-2016,AUDA,DC9,Frances Baard,Total By Customer Group,7151781,Northern Cape,,
-2016,AUDA,EC101,Dr Beyers Naude,Total By Income Source,75287978,Northern Cape,,
+2016,AUDA,DC9,Frances Baard,Total By Customer Group,7151781,Northern Cape,21.246215,21.246215
+2016,AUDA,EC101,Dr Beyers Naude,Total By Income Source,75287978,Northern Cape,21.246215,21.246215
 2016,AUDA,EC101,Dr Beyers Naude,Total By Customer Group,75287978,Northern Cape,24.3341432,24.3341432
 2016,AUDA,EC102,Blue Crane Route,Total By Income Source,49090092,Northern Cape,24.3341432,24.3341432
-2016,AUDA,EC102,Blue Crane Route,Total By Customer Group,49090092,Eastern Cape,,
+2016,AUDA,EC102,Blue Crane Route,Total By Customer Group,49090092,Eastern Cape,24.371068,24.371068
 2016,AUDA,EC104,Makana,Total By Income Source,336599446,Eastern Cape,24.3341432,24.3341432
-2016,AUDA,EC104,Makana,Total By Customer Group,336599446,Eastern Cape,,
+2016,AUDA,EC104,Makana,Total By Customer Group,336599446,Eastern Cape,24.371068,24.371068
 2016,AUDA,EC105,Ndlambe,Total By Income Source,92981390,Eastern Cape,24.3341432,24.3341432
 2016,AUDA,EC105,Ndlambe,Total By Customer Group,92981390,Eastern Cape,25.4733554,25.4733554
 2016,AUDA,EC106,Sundays River Valley,Total By Income Source,196658336,Eastern Cape,25.4733554,25.4733554
@@ -1035,8 +1035,8 @@
 2016,AUDA,NC072,Umsobomvu,Total By Income Source,109763441,Northern Cape,19.949686,19.949686
 2016,AUDA,NC072,Umsobomvu,Total By Customer Group,109763441,Northern Cape,20.902977,20.902977
 2016,AUDA,NC074,Kareeberg,Total By Income Source,6192215,Northern Cape,20.902977,20.902977
-2016,AUDA,NC074,Kareeberg,Total By Customer Group,6192212,Northern Cape,,
-2016,AUDA,NC082,Kai !Garib,Total By Income Source,151938266,Northern Cape,,
+2016,AUDA,NC074,Kareeberg,Total By Customer Group,6192212,Northern Cape,19.237649,19.237649
+2016,AUDA,NC082,Kai !Garib,Total By Income Source,151938266,Northern Cape,19.237649,19.237649
 2016,AUDA,NC082,Kai !Garib,Total By Customer Group,151938266,Northern Cape,23.1918021,23.1918021
 2016,AUDA,NC084,!Kheis,Total By Income Source,38077684,Northern Cape,23.1918021,23.1918021
 2016,AUDA,NC084,!Kheis,Total By Customer Group,38077684,Northern Cape,24.9991464,24.9991464
