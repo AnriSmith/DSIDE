@@ -1,0 +1,236 @@
+,geo_code,name,total,At least one employed adult,No employed adult,province
+0,ZA,South Africa,9770007,5647743,4122264,South Africa
+1,WC044,George,32510,25891,6619,Western Cape
+2,WC047,Bitou,7537,5809,1728,Western Cape
+3,WC048,Knysna,10562,8313,2249,Western Cape
+4,WC051,Laingsburg,1172,971,201,Western Cape
+5,WC052,Prince Albert,2217,1554,663,Western Cape
+6,WC053,Beaufort West,8047,4800,3247,Western Cape
+7,MP303,Mkhondo,30097,15391,14706,Mpumalanga
+8,MP311,Victor Khanye,13462,9512,3950,Mpumalanga
+9,MP322,Mbombela,123455,82367,41088,North West
+10,NW373,Rustenburg,94375,70373,24002,North West
+11,NW384,Ditsobotla,29416,17463,11953,North West
+12,NW396,Lekwa-Teemane,9474,5319,4155,Northern Cape
+13,NC062,Nama Khoi,7445,5116,2329,Northern Cape
+14,NC071,Ubuntu,3047,2125,922,Northern Cape
+15,NC077,Siyathemba,3436,2394,1042,Northern Cape
+16,NC085,Tsantsabane,6379,4666,1713,Northern Cape
+17,NC094,Phokwane,11301,6280,5021,Western Cape
+18,WC012,Cederberg,8012,6715,1297,Western Cape
+19,WC024,Stellenbosch,32193,24189,8004,Western Cape
+20,WC033,Cape Agulhas,5224,4680,544,Western Cape
+21,WC045,Oudtshoorn,16275,11532,4743,Eastern Cape
+22,EC102,Blue Crane Route,5784,2986,2798,Eastern Cape
+23,EC103,Ikwezi,1632,1065,567,Eastern Cape
+24,EC104,Makana,13655,8283,5372,Eastern Cape
+25,EC106,Sundays River Valley,9296,6469,2827,Eastern Cape
+26,EC107,Baviaans,2763,1677,1086,Eastern Cape
+27,EC108,Kouga,15622,12008,3614,Eastern Cape
+28,EC109,Kou-Kamma,6643,5657,986,Eastern Cape
+29,EC121,Mbhashe,50724,10689,40035,Eastern Cape
+30,EC123,Great Kei,6522,2930,3592,Eastern Cape
+31,EC124,Amahlathi,21547,8578,12969,Eastern Cape
+32,EC126,Ngqushwa,11553,3033,8520,Eastern Cape
+33,EC127,Nkonkobe,20424,6720,13704,Eastern Cape
+34,EC131,Inxuba Yethemba,10849,6991,3858,Eastern Cape
+35,EC132,Tsolwana,6071,2025,4046,Eastern Cape
+36,EC133,Inkwanca,4052,1825,2227,Eastern Cape
+37,EC134,Lukanji,35728,16659,19069,Eastern Cape
+38,EC136,Emalahleni,21380,5248,16132,Eastern Cape
+39,EC137,Engcobo,28846,6464,22382,Eastern Cape
+40,EC138,Sakhisizwe,12346,4816,7530,Eastern Cape
+41,EC141,Elundini,27231,7828,19403,Eastern Cape
+42,EC142,Senqu,26435,9463,16972,Eastern Cape
+43,EC143,Maletswai,7987,4641,3346,Eastern Cape
+44,EC153,Ngquza Hill,57680,12247,45433,Eastern Cape
+45,EC154,Port St Johns,33236,5668,27568,Eastern Cape
+46,EC155,Nyandeni,62991,15072,47919,Eastern Cape
+47,EC156,Mhlontlo,39099,9490,29609,Eastern Cape
+48,EC441,Matatiele,39384,13422,25962,Eastern Cape
+49,EC442,Umzimvubu,38246,11018,27228,Eastern Cape
+50,EC443,Mbizana,58424,14061,44363,Eastern Cape
+51,EC444,Ntabankulu,25828,4878,20950,Free State
+52,FS161,Letsemeng,6631,4144,2487,Free State
+53,FS162,Kopanong,8256,4573,3683,Free State
+54,FS163,Mohokare,6315,3182,3133,Free State
+55,FS181,Masilonyana,10786,5297,5489,Free State
+56,FS182,Tokologo,4900,2707,2193,Free State
+57,FS183,Tswelopele,8772,4722,4050,Free State
+58,FS184,Matjhabeng,75279,44881,30398,Free State
+59,FS185,Nala,14780,7773,7007,Free State
+60,FS192,Dihlabeng,22104,13967,8137,Free State
+61,FS193,Nketoana,11182,6206,4976,Free State
+62,FS194,Maluti a Phofung,71457,29760,41697,Free State
+63,FS195,Phumelela,8734,5211,3523,Free State
+64,FS201,Moqhaka,26166,15437,10729,Free State
+65,FS203,Ngwathe,20849,11338,9511,Free State
+66,FS204,Metsimaholo,26504,18138,8366,Free State
+67,FS205,Mafube,10613,5594,5019,Gauteng
+68,GT421,Emfuleni,137114,87450,49664,Gauteng
+69,GT423,Lesedi,16848,12522,4326,Gauteng
+70,GT481,Mogale City,60990,47261,13729,Gauteng
+71,GT482,Randfontein,25323,19390,5933,Gauteng
+72,GT483,Westonaria,19984,13629,6355,KwaZulu-Natal
+73,KZN211,Vulamehlo,15653,4394,11259,KwaZulu-Natal
+74,KZN212,Umdoni,14684,8161,6523,KwaZulu-Natal
+75,KZN213,Umzumbe,32708,9484,23224,KwaZulu-Natal
+76,KZN214,UMuziwabantu,20088,6982,13106,KwaZulu-Natal
+77,KZN215,Ezingoleni,10613,3763,6850,KwaZulu-Natal
+78,KZN221,uMshwathi,21810,10157,11653,KwaZulu-Natal
+79,KZN222,uMngeni,15583,11115,4468,KwaZulu-Natal
+80,KZN223,Mpofana,7203,4242,2961,KwaZulu-Natal
+81,KZN224,Impendle,6650,1484,5166,KwaZulu-Natal
+82,KZN225,The Msunduzi,123335,75648,47687,KwaZulu-Natal
+83,KZN226,Mkhambathini,12483,6321,6162,KwaZulu-Natal
+84,KZN232,Emnambithi/Ladysmith,45665,24843,20822,KwaZulu-Natal
+85,KZN233,Indaka,21439,3879,17560,KwaZulu-Natal
+86,KZN234,Umtshezi,15875,6937,8938,KwaZulu-Natal
+87,KZN235,Okhahlamba,25924,8530,17394,KwaZulu-Natal
+88,KZN236,Imbabazane,23579,8395,15184,KwaZulu-Natal
+89,KZN242,Nqutu,34281,7274,27007,KwaZulu-Natal
+90,KZN244,Msinga,35084,6159,28925,KwaZulu-Natal
+91,KZN245,Umvoti,20339,8041,12298,KwaZulu-Natal
+92,KZN252,Newcastle,74337,36040,38297,KwaZulu-Natal
+93,KZN254,Dannhauser,21273,8364,12909,KwaZulu-Natal
+94,KZN261,eDumbe,16734,6185,10549,KwaZulu-Natal
+95,KZN262,UPhongolo,27649,10569,17080,KwaZulu-Natal
+96,KZN263,Abaqulusi,41875,14993,26882,KwaZulu-Natal
+97,KZN265,Nongoma,42529,10540,31989,KwaZulu-Natal
+98,KZN266,Ulundi,39152,10489,28663,KwaZulu-Natal
+99,KZN272,Jozini,40834,10835,29999,KwaZulu-Natal
+100,KZN273,The Big 5 False Bay,7366,2327,5039,KwaZulu-Natal
+101,KZN274,Hlabisa,15726,4287,11439,KwaZulu-Natal
+102,KZN275,Mtubatuba,36805,12950,23855,KwaZulu-Natal
+103,KZN281,Mfolozi,26099,11291,14808,KwaZulu-Natal
+104,KZN283,Ntambanana,16281,5750,10531,KwaZulu-Natal
+105,KZN284,uMlalazi,44637,13911,30726,KwaZulu-Natal
+106,KZN285,Mthonjaneni,9565,3643,5922,KwaZulu-Natal
+107,KZN286,Nkandla,23740,5070,18670,KwaZulu-Natal
+108,KZN291,Mandeni,28772,15788,12984,KwaZulu-Natal
+109,KZN293,Ndwedwe,28993,7507,21486,KwaZulu-Natal
+110,KZN294,Maphumulo,20146,4268,15878,KwaZulu-Natal
+111,KZN431,Ingwe,20463,6481,13982,KwaZulu-Natal
+112,KZN432,Kwa Sani,2222,1564,658,KwaZulu-Natal
+113,KZN434,Ubuhlebezwe,20621,7424,13197,KwaZulu-Natal
+114,KZN435,Umzimkhulu,38205,10333,27872,Limpopo
+115,LIM331,Greater Giyani,55771,17794,37977,Limpopo
+116,LIM332,Greater Letaba,48175,15246,32929,Limpopo
+117,LIM333,Greater Tzaneen,81069,35693,45376,Limpopo
+118,LIM335,Maruleng,20194,6324,13870,Limpopo
+119,LIM341,Musina,12713,8856,3857,Limpopo
+120,LIM342,Mutale,19775,6535,13240,Limpopo
+121,LIM343,Thulamela,137935,51674,86261,Limpopo
+122,LIM344,Makhado,106471,44255,62216,Limpopo
+123,LIM351,Blouberg,35143,8353,26790,Limpopo
+124,LIM353,Molemole,21737,7235,14502,Limpopo
+125,LIM354,Polokwane,129342,71259,58083,Limpopo
+126,LIM355,Lepele-Nkumpi,46219,15363,30856,Limpopo
+127,LIM361,Thabazimbi,12877,9856,3021,Limpopo
+128,LIM362,Lephalale,22125,13783,8342,Limpopo
+129,LIM365,Modimolle,12245,8151,4094,Limpopo
+130,LIM366,Bela-Bela,11181,7944,3237,Eastern Cape
+131,BUF,Buffalo City,134844,79045,55799,Eastern Cape
+132,EC101,Camdeboo,8206,5625,2581,Eastern Cape
+133,EC105,Ndlambe,9437,5654,3783,Eastern Cape
+134,EC122,Mnquma,47063,13000,34063,Eastern Cape
+135,EC128,Nxuba,3816,1977,1839,Eastern Cape
+136,EC135,Intsika Yethu,25313,5677,19636,Eastern Cape
+137,EC144,Gariep,5718,3465,2253,Eastern Cape
+138,EC157,King Sabata Dalindyebo,98031,34969,63062,Eastern Cape
+139,NMA,Nelson Mandela Bay,207454,129609,77845,Eastern Cape
+140,FS164,Naledi,4691,2096,2595,Free State
+141,FS191,Setsoto,20934,9924,11010,Free State
+142,FS196,Mantsopa,9471,5407,4064,Free State
+143,MAN,Mangaung,145591,92507,53084,Free State
+144,EKU,Ekurhuleni,561836,413641,148195,Gauteng
+145,GT422,Midvaal,14948,12236,2712,Gauteng
+146,GT484,Merafong City,33008,23747,9261,Gauteng
+147,JHB,City of Johannesburg,764052,570203,193849,Gauteng
+148,TSH,City of Tshwane,522354,383185,139169,Gauteng
+149,ETH,eThekwini,693983,465005,228978,KwaZulu-Natal
+150,KZN216,Hibiscus Coast,48912,31469,17443,KwaZulu-Natal
+151,KZN227,Richmond,12450,6580,5870,KwaZulu-Natal
+152,KZN241,Endumeni,12461,7786,4675,KwaZulu-Natal
+153,KZN253,Emadlangeni,6375,3654,2721,KwaZulu-Natal
+154,KZN271,Umhlabuyalingana,32957,8405,24552,KwaZulu-Natal
+155,KZN282,uMhlathuze,68499,43122,25377,KwaZulu-Natal
+156,KZN292,KwaDukuza,45149,31496,13653,KwaZulu-Natal
+157,KZN433,Greater Kokstad,13438,8580,4858,KwaZulu-Natal
+158,LIM334,Ba-Phalaborwa,29695,17010,12685,KwaZulu-Natal
+159,LIM352,Aganang,26391,7681,18710,Limpopo
+160,LIM364,Mookgopong,6030,3993,2037,Limpopo
+161,LIM367,Mogalakwena,62232,25453,36779,Limpopo
+162,LIM471,Ephraim Mogale,24718,8210,16508,Limpopo
+163,LIM472,Elias Motsoaledi,51203,17382,33821,Limpopo
+164,LIM473,Makhuduthamaga,55113,12400,42713,Limpopo
+165,LIM474,Fetakgomo,18914,5729,13185,Limpopo
+166,LIM475,Greater Tubatse,70307,28731,41576,Limpopo
+167,MP301,Albert Luthuli,40684,17788,22896,Limpopo
+168,MP302,Msukaligwa,28422,19254,9168,Mpumalanga
+169,MP304,Pixley Ka Seme,15662,7284,8378,Mpumalanga
+170,MP305,Lekwa,20606,14917,5689,Mpumalanga
+171,MP306,Dipaleseng,7842,4857,2985,Mpumalanga
+172,MP307,Govan Mbeki,55918,41843,14075,Mpumalanga
+173,MP312,Emalahleni,74651,57658,16993,Mpumalanga
+174,MP313,Steve Tshwete,40865,32789,8076,Mpumalanga
+175,MP314,Emakhazeni,8383,5700,2683,Mpumalanga
+176,MP315,Thembisile,63929,38131,25798,Mpumalanga
+177,MP316,Dr JS Moroka,50997,22242,28755,Mpumalanga
+178,MP321,Thaba Chweu,16509,11850,4659,Mpumalanga
+179,MP323,Umjindi,11900,8722,3178,Mpumalanga
+180,MP324,Nkomazi,90696,44539,46157,Mpumalanga
+181,MP325,Bushbuckridge,122688,44350,78338,Mpumalanga
+182,NW371,Moretele,34588,17089,17499,Mpumalanga
+183,NW372,Madibeng,85450,59893,25557,North West
+184,NW374,Kgetlengrivier,8726,5897,2829,North West
+185,NW375,Moses Kotane,41989,21824,20165,North West
+186,NW381,Ratlou,19183,4846,14337,North West
+187,NW382,Tswaing,22920,10807,12113,North West
+188,NW383,Mafikeng,57486,30243,27243,North West
+189,NW385,Ramotshere Moiloa,25725,9904,15821,North West
+190,NW392,Naledi,11692,7816,3876,North West
+191,NW393,Mamusa,10999,5691,5308,North West
+192,NW394,Greater Taung,32668,9158,23510,North West
+193,NW397,Kagisano/Molopo,18292,5909,12383,North West
+194,NW401,Ventersdorp,9771,5593,4178,North West
+195,NW402,Tlokwe City Council,32651,21175,11476,North West
+196,NW403,City of Matlosana,70032,46760,23272,North West
+197,NW404,Maquassi Hills,13995,7372,6623,North West
+198,NC061,Richtersveld,1711,1500,211,North West
+199,NC064,Kamiesberg,1296,780,516,Northern Cape
+200,NC065,Hantam,3291,2570,721,Northern Cape
+201,NC066,Karoo Hoogland,1594,1199,395,Northern Cape
+202,NC067,Khâi-Ma,2149,1697,452,Northern Cape
+203,NC072,Umsobomvu,4735,2672,2063,Northern Cape
+204,NC073,Emthanjeni,6988,4719,2269,Northern Cape
+205,NC074,Kareeberg,1728,1155,573,Northern Cape
+206,NC075,Renosterberg,1697,1035,662,Northern Cape
+207,NC076,Thembelihle,2670,1888,782,Northern Cape
+208,NC078,Siyancuma,6116,3788,2328,Northern Cape
+209,NC081,Mier,1119,606,513,Northern Cape
+210,NC082,Kai !Garib,13946,11517,2429,Northern Cape
+211,NC083,//Khara Hais,16570,11944,4626,Northern Cape
+212,NC084,!Kheis,2460,1658,802,Northern Cape
+213,NC086,Kgatelopele,3291,2304,987,Northern Cape
+214,NC091,Sol Plaatjie,43431,28671,14760,Northern Cape
+215,NC092,Dikgatlong,8098,4017,4081,Northern Cape
+216,NC093,Magareng,4342,1906,2436,Northern Cape
+217,NC451,Joe Morolong,15829,3916,11913,Northern Cape
+218,NC452,Ga-Segonyana,17690,9744,7946,Northern Cape
+219,NC453,Gamagara,7125,5797,1328,Northern Cape
+220,CPT,City of Cape Town,660413,518641,141772,Northern Cape
+221,WC011,Matzikama,11276,9478,1798,Western Cape
+222,WC013,Bergrivier,9482,8700,782,Western Cape
+223,WC014,Saldanha Bay,17030,14043,2987,Western Cape
+224,WC015,Swartland,17971,15820,2151,Western Cape
+225,WC022,Witzenberg,21328,19254,2074,Western Cape
+226,WC023,Drakenstein,44966,37226,7740,Western Cape
+227,WC025,Breede Valley,28959,24042,4917,Western Cape
+228,WC026,Langeberg,16872,14283,2589,Western Cape
+229,WC031,Theewaterskloof,18566,16010,2556,Western Cape
+230,WC032,Overstrand,11421,9006,2415,Western Cape
+231,WC034,Swellendam,5850,4962,888,Western Cape
+232,WC041,Kannaland,4035,2982,1053,Western Cape
+233,WC042,Hessequa,7581,6492,1089,Western Cape
+234,WC043,Mossel Bay,13684,9882,3802,Western Cape

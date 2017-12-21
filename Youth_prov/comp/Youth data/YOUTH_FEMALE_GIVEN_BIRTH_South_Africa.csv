@@ -1,0 +1,236 @@
+geo_level,geo_code,geoid,name,total,Do not know,Given birth,Never given birth,Unspecified
+country,ZA,country-ZA,South Africa,5100726,7668,1585260,2519482,988316
+municipality,WC044,municipality-WC044,George,17027,15,5231,7829,3952
+municipality,WC047,municipality-WC047,Bitou,3948,4,1269,1827,848
+municipality,WC048,municipality-WC048,Knysna,5560,6,1781,2385,1388
+municipality,WC051,municipality-WC051,Laingsburg,617,0,213,280,124
+municipality,WC052,municipality-WC052,Prince Albert,1100,1,395,582,122
+municipality,WC053,municipality-WC053,Beaufort West,4142,1,1363,1594,1184
+municipality,MP303,municipality-MP303,Mkhondo,15749,62,5951,6235,3501
+municipality,MP311,municipality-MP311,Victor Khanye,6587,12,2417,2944,1214
+municipality,MP322,municipality-MP322,Mbombela,65196,100,23038,31695,10363
+municipality,NW373,municipality-NW373,Rustenburg,46605,58,15490,20791,10266
+municipality,NW384,municipality-NW384,Ditsobotla,15139,10,5719,7452,1958
+municipality,NW396,municipality-NW396,Lekwa-Teemane,4789,1,1742,2328,718
+municipality,NC062,municipality-NC062,Nama Khoi,3928,1,1185,2063,679
+municipality,NC071,municipality-NC071,Ubuntu,1535,3,620,686,226
+municipality,NC077,municipality-NC077,Siyathemba,1778,1,701,891,185
+municipality,NC085,municipality-NC085,Tsantsabane,3055,3,1258,1385,409
+municipality,NC094,municipality-NC094,Phokwane,5747,11,2275,2499,962
+municipality,WC012,municipality-WC012,Cederberg,4289,7,1519,1589,1174
+municipality,WC024,municipality-WC024,Stellenbosch,19642,30,4147,7705,7760
+municipality,WC033,municipality-WC033,Cape Agulhas,2752,1,900,1197,654
+municipality,WC045,municipality-WC045,Oudtshoorn,8525,11,2743,3641,2130
+municipality,EC102,municipality-EC102,Blue Crane Route,2998,2,931,1548,517
+municipality,EC103,municipality-EC103,Ikwezi,858,0,303,371,184
+municipality,EC104,municipality-EC104,Makana,9114,13,1677,4238,3186
+municipality,EC106,municipality-EC106,Sundays River Valley,4402,6,1498,2169,729
+municipality,EC107,municipality-EC107,Baviaans,1398,2,554,649,193
+municipality,EC108,municipality-EC108,Kouga,7922,13,2956,3616,1337
+municipality,EC109,municipality-EC109,Kou-Kamma,3233,2,1378,1301,552
+municipality,EC121,municipality-EC121,Mbhashe,27408,16,7876,15134,4382
+municipality,EC123,municipality-EC123,Great Kei,3306,0,839,1781,686
+municipality,EC124,municipality-EC124,Amahlathi,10839,5,2989,6286,1559
+municipality,EC126,municipality-EC126,Ngqushwa,5656,6,1433,3423,794
+municipality,EC127,municipality-EC127,Nkonkobe,11930,10,2945,5486,3489
+municipality,EC131,municipality-EC131,Inxuba Yethemba,5549,12,1710,2684,1143
+municipality,EC132,municipality-EC132,Tsolwana,3106,6,917,1599,584
+municipality,EC133,municipality-EC133,Inkwanca,2062,0,780,779,503
+municipality,EC134,municipality-EC134,Lukanji,18373,19,5299,10296,2759
+municipality,EC136,municipality-EC136,Emalahleni,11132,12,3412,5770,1938
+municipality,EC137,municipality-EC137,Engcobo,15293,24,4986,6469,3814
+municipality,EC138,municipality-EC138,Sakhisizwe,6093,10,1757,2760,1566
+municipality,EC141,municipality-EC141,Elundini,13578,16,4225,6773,2564
+municipality,EC142,municipality-EC142,Senqu,13732,36,4915,6668,2113
+municipality,EC143,municipality-EC143,Maletswai,4222,2,1467,2063,690
+municipality,EC153,municipality-EC153,Ngquza Hill,29933,27,10219,14536,5151
+municipality,EC154,municipality-EC154,Port St Johns,17461,11,6058,8487,2905
+municipality,EC155,municipality-EC155,Nyandeni,32448,33,10597,16676,5142
+municipality,EC156,municipality-EC156,Mhlontlo,19719,30,6753,9604,3332
+municipality,EC441,municipality-EC441,Matatiele,21149,41,6932,9372,4804
+municipality,EC442,municipality-EC442,Umzimvubu,20216,25,7071,9437,3683
+municipality,EC443,municipality-EC443,Mbizana,31035,61,10334,15180,5460
+municipality,EC444,municipality-EC444,Ntabankulu,13431,25,4849,6535,2022
+municipality,FS161,municipality-FS161,Letsemeng,3432,1,1269,1713,449
+municipality,FS162,municipality-FS162,Kopanong,4355,3,1513,2265,574
+municipality,FS163,municipality-FS163,Mohokare,3256,0,1305,1628,323
+municipality,FS181,municipality-FS181,Masilonyana,5870,11,1918,2917,1024
+municipality,FS182,municipality-FS182,Tokologo,2756,1,1076,1232,447
+municipality,FS183,municipality-FS183,Tswelopele,4551,1,1729,1953,868
+municipality,FS184,municipality-FS184,Matjhabeng,39259,61,12272,20341,6585
+municipality,FS185,municipality-FS185,Nala,7744,8,2995,3827,914
+municipality,FS192,municipality-FS192,Dihlabeng,11769,7,4052,6182,1528
+municipality,FS193,municipality-FS193,Nketoana,5847,8,2228,2950,661
+municipality,FS194,municipality-FS194,Maluti a Phofung,38007,66,11864,20469,5608
+municipality,FS195,municipality-FS195,Phumelela,4557,6,1680,2429,442
+municipality,FS201,municipality-FS201,Moqhaka,14219,8,4394,6991,2826
+municipality,FS203,municipality-FS203,Ngwathe,10885,9,3838,5348,1690
+municipality,FS204,municipality-FS204,Metsimaholo,13253,17,4153,6400,2683
+municipality,FS205,municipality-FS205,Mafube,5591,13,1859,2892,827
+municipality,GT421,municipality-GT421,Emfuleni,70434,138,19029,39994,11273
+municipality,GT423,municipality-GT423,Lesedi,8537,17,3073,4136,1311
+municipality,GT481,municipality-GT481,Mogale City,30647,35,9362,15534,5716
+municipality,GT482,municipality-GT482,Randfontein,12683,8,3957,6672,2046
+municipality,GT483,municipality-GT483,Westonaria,9809,8,3826,4176,1799
+municipality,KZN211,municipality-KZN211,Vulamehlo,8131,14,2901,3546,1670
+municipality,KZN212,municipality-KZN212,Umdoni,7689,14,2547,3736,1392
+municipality,KZN213,municipality-KZN213,Umzumbe,16764,13,5158,8879,2714
+municipality,KZN214,municipality-KZN214,UMuziwabantu,10436,22,3224,5248,1942
+municipality,KZN215,municipality-KZN215,Ezingoleni,5549,5,1971,2897,676
+municipality,KZN221,municipality-KZN221,uMshwathi,11304,8,3684,5517,2095
+municipality,KZN222,municipality-KZN222,uMngeni,8454,5,2843,3823,1783
+municipality,KZN223,municipality-KZN223,Mpofana,3684,0,1378,1426,880
+municipality,KZN224,municipality-KZN224,Impendle,3405,1,1220,1557,627
+municipality,KZN225,municipality-KZN225,The Msunduzi,65901,121,18854,33190,13736
+municipality,KZN226,municipality-KZN226,Mkhambathini,6385,8,2302,2884,1191
+municipality,KZN232,municipality-KZN232,Emnambithi/Ladysmith,23935,35,8549,11439,3912
+municipality,KZN233,municipality-KZN233,Indaka,11606,9,4081,6243,1273
+municipality,KZN234,municipality-KZN234,Umtshezi,8355,20,2590,4144,1601
+municipality,KZN235,municipality-KZN235,Okhahlamba,13542,14,4822,6488,2218
+municipality,KZN236,municipality-KZN236,Imbabazane,12164,25,3815,5703,2621
+municipality,KZN242,municipality-KZN242,Nqutu,18321,11,6718,9485,2107
+municipality,KZN244,municipality-KZN244,Msinga,19773,23,5702,9562,4486
+municipality,KZN245,municipality-KZN245,Umvoti,11358,17,3337,5634,2370
+municipality,KZN252,municipality-KZN252,Newcastle,38157,45,12740,20136,5236
+municipality,KZN254,municipality-KZN254,Dannhauser,10793,13,3984,5706,1090
+municipality,KZN261,municipality-KZN261,eDumbe,8603,34,3278,3721,1570
+municipality,KZN262,municipality-KZN262,UPhongolo,14381,33,5611,6526,2211
+municipality,KZN263,municipality-KZN263,Abaqulusi,22006,47,7541,9742,4676
+municipality,KZN265,municipality-KZN265,Nongoma,22890,19,7608,10915,4348
+municipality,KZN266,municipality-KZN266,Ulundi,21262,41,6371,10284,4566
+municipality,KZN272,municipality-KZN272,Jozini,21591,41,7330,9932,4288
+municipality,KZN273,municipality-KZN273,The Big 5 False Bay,3841,19,1183,1526,1113
+municipality,KZN274,municipality-KZN274,Hlabisa,8329,19,2660,3861,1789
+municipality,KZN275,municipality-KZN275,Mtubatuba,19425,61,6369,9214,3781
+municipality,KZN281,municipality-KZN281,Mfolozi,13373,17,4393,5988,2975
+municipality,KZN283,municipality-KZN283,Ntambanana,8463,8,2591,4165,1699
+municipality,KZN284,municipality-KZN284,uMlalazi,23315,51,7015,11588,4661
+municipality,KZN285,municipality-KZN285,Mthonjaneni,5023,2,1690,2583,748
+municipality,KZN286,municipality-KZN286,Nkandla,13016,34,3648,6355,2979
+municipality,KZN291,municipality-KZN291,Mandeni,14803,32,5084,7155,2532
+municipality,KZN293,municipality-KZN293,Ndwedwe,14991,23,4913,7429,2626
+municipality,KZN294,municipality-KZN294,Maphumulo,11044,21,2929,5881,2213
+municipality,KZN431,municipality-KZN431,Ingwe,10527,17,3877,4998,1635
+municipality,KZN432,municipality-KZN432,Kwa Sani,1041,67,546,319,109
+municipality,KZN434,municipality-KZN434,Ubuhlebezwe,10631,10,3540,4768,2313
+municipality,KZN435,municipality-KZN435,Umzimkhulu,20709,18,7375,10607,2709
+municipality,LIM331,municipality-LIM331,Greater Giyani,29525,46,10855,15648,2976
+municipality,LIM332,municipality-LIM332,Greater Letaba,24821,31,7410,14884,2496
+municipality,LIM333,municipality-LIM333,Greater Tzaneen,41528,43,12864,23762,4859
+municipality,LIM335,municipality-LIM335,Maruleng,10494,16,3174,5805,1499
+municipality,LIM341,municipality-LIM341,Musina,6771,14,3345,2624,788
+municipality,LIM342,municipality-LIM342,Mutale,10361,9,3614,5667,1071
+municipality,LIM343,municipality-LIM343,Thulamela,72649,156,23467,40143,8883
+municipality,LIM344,municipality-LIM344,Makhado,54744,88,19174,29662,5820
+municipality,LIM351,municipality-LIM351,Blouberg,18566,27,5776,10832,1931
+municipality,LIM353,municipality-LIM353,Molemole,11548,13,3937,5962,1636
+municipality,LIM354,municipality-LIM354,Polokwane,69408,118,20647,36748,11895
+municipality,LIM355,municipality-LIM355,Lepele-Nkumpi,24046,32,7572,13123,3319
+municipality,LIM361,municipality-LIM361,Thabazimbi,6225,16,2510,2255,1444
+municipality,LIM362,municipality-LIM362,Lephalale,11155,20,4034,5037,2064
+municipality,LIM365,municipality-LIM365,Modimolle,6245,6,2523,2830,886
+municipality,LIM366,municipality-LIM366,Bela-Bela,5788,7,2059,2667,1055
+municipality,BUF,municipality-BUF,Buffalo City,72417,112,18099,37234,16972
+municipality,EC101,municipality-EC101,Camdeboo,4527,9,1400,1885,1233
+municipality,EC105,municipality-EC105,Ndlambe,4815,6,1274,2755,780
+municipality,EC122,municipality-EC122,Mnquma,25454,18,7135,14311,3990
+municipality,EC128,municipality-EC128,Nxuba,2055,21,617,993,424
+municipality,EC135,municipality-EC135,Intsika Yethu,12721,11,3921,6634,2155
+municipality,EC144,municipality-EC144,Gariep,2841,2,972,1415,452
+municipality,EC157,municipality-EC157,King Sabata Dalindyebo,54713,40,15773,26258,12642
+municipality,NMA,municipality-NMA,Nelson Mandela Bay,108202,120,26704,58248,23130
+municipality,FS164,municipality-FS164,Naledi,2445,1,869,1339,236
+municipality,FS191,municipality-FS191,Setsoto,11158,6,3924,5980,1248
+municipality,FS196,municipality-FS196,Mantsopa,4962,6,1855,2556,545
+municipality,MAN,municipality-MAN,Mangaung,77192,97,20462,43754,12879
+municipality,EKU,municipality-EKU,Ekurhuleni,282253,381,92198,135381,54293
+municipality,GT422,municipality-GT422,Midvaal,7892,12,2224,3645,2011
+municipality,GT484,municipality-GT484,Merafong City,16991,15,5955,7614,3407
+municipality,JHB,municipality-JHB,City of Johannesburg,399515,753,114082,180815,103865
+municipality,TSH,municipality-TSH,City of Tshwane,277925,501,70505,142582,64337
+municipality,ETH,municipality-ETH,eThekwini,359752,626,102910,168470,87746
+municipality,KZN216,municipality-KZN216,Hibiscus Coast,25669,32,8594,12084,4959
+municipality,KZN227,municipality-KZN227,Richmond,6402,12,2381,2910,1099
+municipality,KZN241,municipality-KZN241,Endumeni,6515,2,2363,2927,1223
+municipality,KZN253,municipality-KZN253,Emadlangeni,3137,1,1200,1522,414
+municipality,KZN271,municipality-KZN271,Umhlabuyalingana,17419,63,5844,8472,3040
+municipality,KZN282,municipality-KZN282,uMhlathuze,38421,51,10815,18605,8950
+municipality,KZN292,municipality-KZN292,KwaDukuza,23203,12,9120,10201,3870
+municipality,KZN433,municipality-KZN433,Greater Kokstad,7152,14,2636,3100,1402
+municipality,LIM334,municipality-LIM334,Ba-Phalaborwa,15532,33,5581,8011,1907
+municipality,LIM352,municipality-LIM352,Aganang,13943,17,4251,8313,1362
+municipality,LIM364,municipality-LIM364,Mookgopong,2916,8,1376,1189,343
+municipality,LIM367,municipality-LIM367,Mogalakwena,32567,51,10538,18226,3752
+municipality,LIM471,municipality-LIM471,Ephraim Mogale,12550,13,4860,6362,1315
+municipality,LIM472,municipality-LIM472,Elias Motsoaledi,26649,29,8935,14608,3077
+municipality,LIM473,municipality-LIM473,Makhuduthamaga,29056,23,9004,16410,3619
+municipality,LIM474,municipality-LIM474,Fetakgomo,9885,8,2586,5771,1520
+municipality,LIM475,municipality-LIM475,Greater Tubatse,36518,47,13010,18234,5227
+municipality,MP301,municipality-MP301,Albert Luthuli,21371,37,8026,10804,2504
+municipality,MP302,municipality-MP302,Msukaligwa,14618,33,5682,6644,2259
+municipality,MP304,municipality-MP304,Pixley Ka Seme,8189,19,2985,3888,1297
+municipality,MP305,municipality-MP305,Lekwa,10403,9,3633,5127,1634
+municipality,MP306,municipality-MP306,Dipaleseng,3920,9,1441,1892,578
+municipality,MP307,municipality-MP307,Govan Mbeki,27219,40,9309,12367,5503
+municipality,MP312,municipality-MP312,Emalahleni,36361,69,11484,18430,6378
+municipality,MP313,municipality-MP313,Steve Tshwete,20146,54,6116,9390,4586
+municipality,MP314,municipality-MP314,Emakhazeni,4246,2,1549,1820,875
+municipality,MP315,municipality-MP315,Thembisile,32689,101,10171,18051,4366
+municipality,MP316,municipality-MP316,Dr JS Moroka,25985,51,7931,14849,3154
+municipality,MP321,municipality-MP321,Thaba Chweu,8549,12,2728,3757,2052
+municipality,MP323,municipality-MP323,Umjindi,6261,8,2367,2790,1096
+municipality,MP324,municipality-MP324,Nkomazi,47452,99,17359,20197,9797
+municipality,MP325,municipality-MP325,Bushbuckridge,64591,80,24265,35122,5124
+municipality,NW371,municipality-NW371,Moretele,17559,16,6570,9336,1637
+municipality,NW372,municipality-NW372,Madibeng,42099,46,16483,19518,6052
+municipality,NW374,municipality-NW374,Kgetlengrivier,4508,9,1570,1797,1132
+municipality,NW375,municipality-NW375,Moses Kotane,21334,18,7575,10577,3164
+municipality,NW381,municipality-NW381,Ratlou,10075,11,3633,5377,1054
+municipality,NW382,municipality-NW382,Tswaing,11809,1,4665,5973,1170
+municipality,NW383,municipality-NW383,Mafikeng,30400,53,8712,17757,3878
+municipality,NW385,municipality-NW385,Ramotshere Moiloa,13580,6,4493,7069,2012
+municipality,NW392,municipality-NW392,Naledi,6016,8,2248,2577,1183
+municipality,NW393,municipality-NW393,Mamusa,5604,6,2233,2573,792
+municipality,NW394,municipality-NW394,Greater Taung,17294,16,6262,8897,2119
+municipality,NW397,municipality-NW397,Kagisano/Molopo,9702,11,3678,4767,1246
+municipality,NW401,municipality-NW401,Ventersdorp,4955,20,2136,2392,407
+municipality,NW402,municipality-NW402,Tlokwe City Council,17222,20,4094,9488,3620
+municipality,NW403,municipality-NW403,City of Matlosana,35689,29,11934,18069,5657
+municipality,NW404,municipality-NW404,Maquassi Hills,7221,1,2995,3238,987
+municipality,NC061,municipality-NC061,Richtersveld,829,0,286,424,119
+municipality,NC064,municipality-NC064,Kamiesberg,739,0,219,281,239
+municipality,NC065,municipality-NC065,Hantam,1673,1,594,908,170
+municipality,NC066,municipality-NC066,Karoo Hoogland,902,0,331,424,147
+municipality,NC067,municipality-NC067,Khâi-Ma,1080,0,457,435,188
+municipality,NC072,municipality-NC072,Umsobomvu,2421,0,843,1277,301
+municipality,NC073,municipality-NC073,Emthanjeni,3666,1,1296,1812,557
+municipality,NC074,municipality-NC074,Kareeberg,965,1,381,430,153
+municipality,NC075,municipality-NC075,Renosterberg,821,1,314,389,117
+municipality,NC076,municipality-NC076,Thembelihle,1372,2,524,622,224
+municipality,NC078,municipality-NC078,Siyancuma,3159,0,1149,1455,555
+municipality,NC081,municipality-NC081,Mier,617,0,205,290,122
+municipality,NC082,municipality-NC082,Kai !Garib,6617,4,2919,3043,651
+municipality,NC083,municipality-NC083,//Khara Hais,8550,18,2741,4470,1321
+municipality,NC084,municipality-NC084,!Kheis,1303,0,474,680,149
+municipality,NC086,municipality-NC086,Kgatelopele,1620,1,639,760,220
+municipality,NC091,municipality-NC091,Sol Plaatjie,22534,26,6979,11447,4082
+municipality,NC092,municipality-NC092,Dikgatlong,4129,10,1601,1949,569
+municipality,NC093,municipality-NC093,Magareng,2151,3,737,952,459
+municipality,NC451,municipality-NC451,Joe Morolong,8418,1,3400,4254,763
+municipality,NC452,municipality-NC452,Ga-Segonyana,9046,10,3237,4424,1375
+municipality,NC453,municipality-NC453,Gamagara,3533,4,1297,1433,799
+municipality,CPT,municipality-CPT,City of Cape Town,349541,476,90846,172128,86091
+municipality,WC011,municipality-WC011,Matzikama,6064,17,2039,2882,1126
+municipality,WC013,municipality-WC013,Bergrivier,5563,5,1745,2228,1585
+municipality,WC014,municipality-WC014,Saldanha Bay,8914,13,2868,4036,1997
+municipality,WC015,municipality-WC015,Swartland,10373,5,3332,4384,2652
+municipality,WC022,municipality-WC022,Witzenberg,10533,5,3958,4656,1914
+municipality,WC023,municipality-WC023,Drakenstein,24055,31,6998,9564,7462
+municipality,WC025,municipality-WC025,Breede Valley,15491,12,5281,6249,3949
+municipality,WC026,municipality-WC026,Langeberg,8651,18,3256,3680,1697
+municipality,WC031,municipality-WC031,Theewaterskloof,9338,8,3109,2956,3265
+municipality,WC032,municipality-WC032,Overstrand,5935,11,1849,2568,1507
+municipality,WC034,municipality-WC034,Swellendam,2958,0,1039,1374,545
+municipality,WC041,municipality-WC041,Kannaland,2100,1,765,925,409
+municipality,WC042,municipality-WC042,Hessequa,3911,2,1285,1986,638
+municipality,WC043,municipality-WC043,Mossel Bay,7111,24,2023,2571,2493
